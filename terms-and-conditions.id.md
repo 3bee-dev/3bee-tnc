@@ -1,8 +1,8 @@
-# Syarat dan Ketentuan Layanan (Perjanjian Layanan)
+﻿# Syarat dan Ketentuan Layanan (Perjanjian Layanan)
 
-- Path Dokumen: [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](./TOC.id.md)
+- Path Dokumen: [terms-and-conditions.id.md](./terms-and-conditions.id.md)
+- Path Dokumen Bahasa Pendamping: [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Path Dokumen Daftar Isi: [TOC.id.md](./TOC.id.md)
 - Tanggal Berlaku: [EFFECTIVE DATE]
 - Versi Dokumen: [DOCUMENT VERSION, e.g., 1.0]
 - Badan Hukum Penyedia: [COMPANY LEGAL NAME]
@@ -11,18 +11,18 @@
 - Kontak Pemberitahuan Hukum: [LEGAL NOTICE EMAIL]
 - Kontak Dukungan Pelanggan: [SUPPORT EMAIL]
 - Path Dokumen Lampiran yang Menyertai:
-  - Lampiran A: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md)
-  - Lampiran B: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md)
-  - Lampiran C: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)
-  - Lampiran D: [docs/platform-legal/annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md)
-  - Lampiran E: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md)
-  - Lampiran F: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)
+  - Lampiran A: [annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md)
+  - Lampiran B: [annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md)
+  - Lampiran C: [annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)
+  - Lampiran D: [annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md)
+  - Lampiran E: [annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md)
+  - Lampiran F: [annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)
 
 ## 1. Pasal 1. Definisi dan Penafsiran
 
 ### 1.1. Istilah yang Didefinisikan
 
-1.1.1. Perjanjian berarti Syarat dan Ketentuan Layanan (Perjanjian Layanan) ini ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)), beserta [Lampiran A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md), [Lampiran B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md), [Lampiran D (docs/platform-legal/annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md), [Lampiran E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md), dan [Lampiran F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md), Cuplikan Kuota yang berlaku, serta setiap konfirmasi pesanan atau tagihan yang diterbitkan oleh Penyedia.
+1.1.1. Perjanjian berarti Syarat dan Ketentuan Layanan (Perjanjian Layanan) ini ([terms-and-conditions.id.md](./terms-and-conditions.id.md)), beserta [Lampiran A (annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md), [Lampiran B (annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md), [Lampiran D (annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md), [Lampiran E (annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md), dan [Lampiran F (annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md), Cuplikan Kuota yang berlaku, serta setiap konfirmasi pesanan atau tagihan yang diterbitkan oleh Penyedia.
 
 1.1.2. Penyedia berarti [COMPANY LEGAL NAME], suatu badan hukum yang didirikan dan beroperasi berdasarkan hukum [INCORPORATION JURISDICTION, e.g., the Republic of Indonesia], berkedudukan terdaftar di [REGISTERED ADDRESS].
 
@@ -98,11 +98,11 @@
 
 ### 1.3. Struktur Perjanjian dan Urutan Keberlakuan
 
-1.3.1. Perjanjian ini ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md), yang diuraikan daftar isinya pada [docs/platform-legal/TOC.id.md](./TOC.id.md)) terdiri atas [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) serta [Lampiran A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md), yang masing-masing merupakan bagian yang tidak terpisahkan dan mengikat dari Perjanjian ini.
+1.3.1. Perjanjian ini ([terms-and-conditions.id.md](./terms-and-conditions.id.md), yang diuraikan daftar isinya pada [TOC.id.md](./TOC.id.md)) terdiri atas [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) serta [Lampiran A (annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F (annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md), yang masing-masing merupakan bagian yang tidak terpisahkan dan mengikat dari Perjanjian ini.
 
-1.3.2. Apabila terdapat pertentangan atau ketidaksesuaian di antara bagian-bagian Perjanjian ini, urutan keberlakuan berikut berlaku dari tingkat tertinggi hingga terendah: (a) Cuplikan Kuota aktif milik Pelanggan dan tagihan lunas untuk Siklus Penagihan berjalan, (b) [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) Perjanjian ini ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)), dan (c) [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F](./annexes/annex-f-consumer-facing-terms.id.md).
+1.3.2. Apabila terdapat pertentangan atau ketidaksesuaian di antara bagian-bagian Perjanjian ini, urutan keberlakuan berikut berlaku dari tingkat tertinggi hingga terendah: (a) Cuplikan Kuota aktif milik Pelanggan dan tagihan lunas untuk Siklus Penagihan berjalan, (b) [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) Perjanjian ini ([terms-and-conditions.id.md](./terms-and-conditions.id.md)), dan (c) [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F](./annexes/annex-f-consumer-facing-terms.id.md).
 
-1.3.3. [Lampiran F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md) menetapkan ketentuan menghadap konsumen yang berlaku khusus bagi Pengguna Akhir yang berinteraksi dengan Agen AI milik Pelanggan dan tidak mengurangi atau menggantikan kewajiban bisnis-ke-bisnis Pelanggan kepada Penyedia berdasarkan [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) serta [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran E](./annexes/annex-e-third-party-channels-and-widget.id.md).
+1.3.3. [Lampiran F (annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md) menetapkan ketentuan menghadap konsumen yang berlaku khusus bagi Pengguna Akhir yang berinteraksi dengan Agen AI milik Pelanggan dan tidak mengurangi atau menggantikan kewajiban bisnis-ke-bisnis Pelanggan kepada Penyedia berdasarkan [Pasal 1](#1-pasal-1-definisi-dan-penafsiran) sampai dengan [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum) serta [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran E](./annexes/annex-e-third-party-channels-and-widget.id.md).
 
 ## 2. Pasal 2. Ruang Lingkup Perjanjian, Status Pelanggan Bisnis, dan Penerimaan Elektronik
 
@@ -118,7 +118,7 @@
 
 2.2.2. Dengan mendaftarkan akun dan mencantumkan nama bisnis, Pelanggan menyatakan dan menjamin bahwa ia memperoleh dan menggunakan Platform sepenuhnya atau terutama untuk tujuan komersial, bisnis, atau profesional dan bukan sebagai konsumen akhir ritel.
 
-2.2.3. Ketentuan terpisah yang menghadap konsumen yang mengatur Pengguna Akhir dan pembeli yang berinteraksi dengan Agen AI milik Pelanggan tercantum dalam [Lampiran F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md). Pelanggan dilarang menyatakan kepada Pengguna Akhir mana pun bahwa Penyedia adalah penjual, pedagang tercatat, atau pihak yang berkontrak atas barang atau jasa yang ditawarkan oleh Pelanggan.
+2.2.3. Ketentuan terpisah yang menghadap konsumen yang mengatur Pengguna Akhir dan pembeli yang berinteraksi dengan Agen AI milik Pelanggan tercantum dalam [Lampiran F (annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md). Pelanggan dilarang menyatakan kepada Pengguna Akhir mana pun bahwa Penyedia adalah penjual, pedagang tercatat, atau pihak yang berkontrak atas barang atau jasa yang ditawarkan oleh Pelanggan.
 
 ### 2.3. Penerimaan Elektronik dan Kekuatan Mengikat
 
@@ -216,7 +216,7 @@
 
 ### 5.1. Paket Langganan, Siklus Penagihan, dan Cuplikan Periode
 
-5.1.1. Paket Langganan ditawarkan dalam Siklus Penagihan Bulanan atau Tahunan sebagaimana dipublikasikan dalam katalog Platform dan dirinci dalam [Lampiran A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md).
+5.1.1. Paket Langganan ditawarkan dalam Siklus Penagihan Bulanan atau Tahunan sebagaimana dipublikasikan dalam katalog Platform dan dirinci dalam [Lampiran A (annexes/annex-a-subscription-plans-quotas-credits.id.md)](./annexes/annex-a-subscription-plans-quotas-credits.id.md).
 
 5.1.2. Pada saat aktivasi atau perpanjangan suatu Siklus Penagihan, Platform mencatat Cuplikan Kuota yang dibekukan serta mengunci biaya langganan yang telah dibayar dan Siklus Penagihan Pelanggan untuk periode tersebut.
 
@@ -354,7 +354,7 @@
 
 ### 8.2. Konten, Produk, dan Kegiatan Komersial yang Dilarang
 
-8.2.1. Pelanggan dilarang menggunakan Platform atau Agen AI mana pun untuk menyimpan, mempromosikan, memfasilitasi, atau mentransaksikan barang, jasa, atau konten yang melanggar hukum yang berlaku atau Kebijakan Penggunaan yang Dapat Diterima dalam [Lampiran B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), termasuk: (a) narkotika, obat-obatan terlarang, atau barang selundupan, (b) perjudian melanggar hukum, pertaruhan, atau skema piramida, (c) pornografi, konten seksual non-konsensual, atau materi eksploitasi seksual anak, (d) barang palsu atau materi yang melanggar hak Kekayaan Intelektual pihak ketiga, (e) penipuan, pengelabuan, penipuan keuangan, atau penyamaran yang menyesatkan, atau (f) terorisme, kekerasan, ujaran kebencian, atau perdagangan senjata ilegal.
+8.2.1. Pelanggan dilarang menggunakan Platform atau Agen AI mana pun untuk menyimpan, mempromosikan, memfasilitasi, atau mentransaksikan barang, jasa, atau konten yang melanggar hukum yang berlaku atau Kebijakan Penggunaan yang Dapat Diterima dalam [Lampiran B (annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), termasuk: (a) narkotika, obat-obatan terlarang, atau barang selundupan, (b) perjudian melanggar hukum, pertaruhan, atau skema piramida, (c) pornografi, konten seksual non-konsensual, atau materi eksploitasi seksual anak, (d) barang palsu atau materi yang melanggar hak Kekayaan Intelektual pihak ketiga, (e) penipuan, pengelabuan, penipuan keuangan, atau penyamaran yang menyesatkan, atau (f) terorisme, kekerasan, ujaran kebencian, atau perdagangan senjata ilegal.
 
 ### 8.3. Larangan Injeksi Instruksi, Penembusan Pengaman, dan Penyalahgunaan Teknis
 
@@ -362,7 +362,7 @@
 
 ### 8.4. Validasi Unggahan Dokumen dan Pembatasan Keamanan Berkas
 
-8.4.1. Seluruh berkas yang diunggah oleh Pelanggan ke Basis Pengetahuan atau alat ekstraksi katalog berbantuan AI wajib mematuhi secara ketat aturan ekstensi berkas, ukuran bita, jumlah halaman, struktur arsip, dan validasi keamanan yang tercantum dalam [Lampiran B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md).
+8.4.1. Seluruh berkas yang diunggah oleh Pelanggan ke Basis Pengetahuan atau alat ekstraksi katalog berbantuan AI wajib mematuhi secara ketat aturan ekstensi berkas, ukuran bita, jumlah halaman, struktur arsip, dan validasi keamanan yang tercantum dalam [Lampiran B (annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md).
 
 8.4.2. Pelanggan dilarang mengunggah dokumen yang dienkripsi atau dilindungi kata sandi, dokumen yang memuat lampiran berkas eksekusi atau makro aktif, bom dekompresi, markah yang rusak, atau berkas yang mengandung muatan berbahaya. Platform secara otomatis menolak unggahan yang tidak memenuhi ketentuan.
 
@@ -410,7 +410,7 @@
 
 ### 10.1. Penghubungan Kanal WhatsApp dan Telegram Menggunakan Kredensial Pelanggan
 
-10.1.1. Apabila Paket Langganan Pelanggan mencakup integrasi WhatsApp atau Telegram sebagaimana dirinci dalam [Lampiran E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md), Pelanggan dapat menghubungkan Agen AI miliknya ke WhatsApp Business atau Telegram dengan menyediakan kredensial kanal resmi milik Pelanggan sendiri (secara khusus, untuk WhatsApp: token akses, penanda nomor telepon, penanda akun bisnis, dan token verifikasi webhook; untuk Telegram: token bot).
+10.1.1. Apabila Paket Langganan Pelanggan mencakup integrasi WhatsApp atau Telegram sebagaimana dirinci dalam [Lampiran E (annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md), Pelanggan dapat menghubungkan Agen AI miliknya ke WhatsApp Business atau Telegram dengan menyediakan kredensial kanal resmi milik Pelanggan sendiri (secara khusus, untuk WhatsApp: token akses, penanda nomor telepon, penanda akun bisnis, dan token verifikasi webhook; untuk Telegram: token bot).
 
 10.1.2. Pelanggan menyatakan dan menjamin bahwa ia adalah pemegang sah atas akun WhatsApp Business atau akun bot Telegram yang dihubungkan ke Platform dan telah memperoleh seluruh izin serta persetujuan Pengguna Akhir yang diwajibkan untuk mengirim dan menerima pesan otomatis melalui kanal tersebut.
 
@@ -428,7 +428,7 @@
 
 ### 10.4. Konfigurasi Widget Situs Web dan Domain Asal yang Diizinkan
 
-10.4.1. Pelanggan dapat menyematkan Widget Situs Web pada situs web eksternal miliknya dengan mengaktifkan Widget Situs Web di Dasbor Utama dan mendaftarkan hingga sepuluh (10) domain asal situs web yang diizinkan sesuai dengan [Lampiran E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md).
+10.4.1. Pelanggan dapat menyematkan Widget Situs Web pada situs web eksternal miliknya dengan mengaktifkan Widget Situs Web di Dasbor Utama dan mendaftarkan hingga sepuluh (10) domain asal situs web yang diizinkan sesuai dengan [Lampiran E (annexes/annex-e-third-party-channels-and-widget.id.md)](./annexes/annex-e-third-party-channels-and-widget.id.md).
 
 10.4.2. Demi penegakan keamanan melalui kebijakan pembingkaian peramban, setiap domain asal Widget Situs Web yang didaftarkan wajib menggunakan skema HTTPS terenkripsi dan nama host domain publik yang sah, serta dilarang memuat karakter pengganti, alamat IPv4 atau IPv6 mentah, jalur URL, rangkaian kueri, atau nama host lokal.
 
@@ -480,7 +480,7 @@
 
 ### 12.3. Jangka Waktu Penyimpanan Data, Penghapusan Otomatis, dan Penyamaran Cuplikan Audit
 
-12.3.1. Platform menerapkan jadwal penyimpanan dan penghapusan data otomatis secara ketat sesuai dengan [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md):
+12.3.1. Platform menerapkan jadwal penyimpanan dan penghapusan data otomatis secara ketat sesuai dengan [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md):
 (a) Kode sekali pakai pendaftaran kedaluwarsa setelah lima (5) menit (300 detik) dan sesi pendaftaran yang belum selesai kedaluwarsa setelah lima belas (15) menit (900 detik).
 (b) Token akses autentikasi kedaluwarsa setelah lima belas (15) menit (900 detik), token penyegar kedaluwarsa setelah tujuh (7) hari (604.800 detik), token perangkat masuk tepercaya kedaluwarsa setelah tiga puluh (30) hari, dan penghitung batas kegagalan masuk kedaluwarsa setelah lima belas (15) menit.
 (c) Aliran log penerapan waktu nyata kedaluwarsa setelah dua (2) jam.
@@ -492,7 +492,7 @@
 
 ### 12.4. Kategori Sub-Pemroses yang Diizinkan
 
-12.4.1. Pelanggan memberikan persetujuan tertulis umum bagi Penyedia untuk menunjuk Sub-Pemroses dalam kategori fungsional berikut sebagaimana dirinci dalam [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md): (a) penyedia pengelolaan komputasi awan, basis data terkelola, singgahan, dan indeks vektor, (b) penyedia pengiriman konten, perutean domain, verifikasi bot, dan penyimpanan objek awan, (c) penyedia model akal imitasi, pemrosesan bahasa alami, visi komputer, dan pembuatan gambar pihak ketiga, (d) penyedia gerbang pembayaran dan pemrosesan pembayaran berlisensi, (e) penyedia pengiriman surat elektronik transaksional, dan (f) penyedia identitas akses masuk tunggal pihak ketiga.
+12.4.1. Pelanggan memberikan persetujuan tertulis umum bagi Penyedia untuk menunjuk Sub-Pemroses dalam kategori fungsional berikut sebagaimana dirinci dalam [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md): (a) penyedia pengelolaan komputasi awan, basis data terkelola, singgahan, dan indeks vektor, (b) penyedia pengiriman konten, perutean domain, verifikasi bot, dan penyimpanan objek awan, (c) penyedia model akal imitasi, pemrosesan bahasa alami, visi komputer, dan pembuatan gambar pihak ketiga, (d) penyedia gerbang pembayaran dan pemrosesan pembayaran berlisensi, (e) penyedia pengiriman surat elektronik transaksional, dan (f) penyedia identitas akses masuk tunggal pihak ketiga.
 
 12.4.2. Selain itu, apabila Pelanggan menghubungkan WhatsApp atau Telegram ke suatu Agen AI, pesan dan media yang dipertukarkan dengan Pengguna Akhir pada kanal tersebut ditransmisikan melalui WhatsApp dan Telegram sesuai dengan konfigurasi Pelanggan.
 
@@ -500,7 +500,7 @@
 
 12.5.1. Pelanggan memahami dan menyetujui bahwa karena infrastruktur awan, penyimpanan objek, dan Sub-Pemroses model akal imitasi pihak ketiga yang digunakan Penyedia beroperasi pada infrastruktur yang terdistribusi secara global, Konten Pelanggan dan masukan Pengguna Akhir (termasuk pesan obrolan dan gambar Virtual Try-On) dapat ditransmisikan ke, disimpan di, dan diproses di yurisdiksi di luar wilayah Republik Indonesia.
 
-12.5.2. Dengan menggunakan Platform, Pelanggan menyetujui transfer lintas batas tersebut dan menjamin bahwa ia telah menyampaikan pemberitahuan atau memperoleh persetujuan yang diwajibkan dari Pengguna Akhirnya sesuai dengan hukum pelindungan data yang berlaku, termasuk Pasal 56 Undang-Undang Republik Indonesia Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. [LAWYER DECISION: Confirm whether standard data transfer clauses or specific destination-country disclosures should be appended to [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md) under implementing regulations of Law No. 27 of 2022.]
+12.5.2. Dengan menggunakan Platform, Pelanggan menyetujui transfer lintas batas tersebut dan menjamin bahwa ia telah menyampaikan pemberitahuan atau memperoleh persetujuan yang diwajibkan dari Pengguna Akhirnya sesuai dengan hukum pelindungan data yang berlaku, termasuk Pasal 56 Undang-Undang Republik Indonesia Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. [LAWYER DECISION: Confirm whether standard data transfer clauses or specific destination-country disclosures should be appended to [Annex C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md) under implementing regulations of Law No. 27 of 2022.]
 
 ### 12.6. Langkah Keamanan Teknis, Status Kepatuhan, dan Penanganan Insiden Data
 
@@ -526,13 +526,13 @@
 
 13.3.1. Apabila Pihak Penerima diwajibkan oleh hukum yang berlaku, regulator, atau perintah pengadilan untuk mengungkapkan Informasi Rahasia milik Pihak Pengungkap, Pihak Penerima dapat melakukannya dengan ketentuan bahwa ia memberikan pemberitahuan tertulis sebelumnya kepada Pihak Pengungkap (sepanjang diizinkan secara hukum) dan membatasi pengungkapan hanya pada cakupan minimum yang diwajibkan.
 
-13.3.2. Pada saat berakhirnya Perjanjian ini dan berakhirnya Jendela Penyimpanan data serta periode penyimpanan catatan wajib dalam [Pasal 12](#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden) dan [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md), Informasi Rahasia yang disimpan dalam basis data Agen AI milik Pelanggan dihapus secara otomatis sesuai dengan [Pasal 7](#7-pasal-7-keterlambatan-pembayaran-masa-tenggang-penangguhan-pembatalan-dan-penyimpanan-data).
+13.3.2. Pada saat berakhirnya Perjanjian ini dan berakhirnya Jendela Penyimpanan data serta periode penyimpanan catatan wajib dalam [Pasal 12](#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden) dan [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md), Informasi Rahasia yang disimpan dalam basis data Agen AI milik Pelanggan dihapus secara otomatis sesuai dengan [Pasal 7](#7-pasal-7-keterlambatan-pembayaran-masa-tenggang-penangguhan-pembatalan-dan-penyimpanan-data).
 
 ## 14. Pasal 14. Ketersediaan Layanan, Pemeliharaan, Pembaruan, dan Dukungan Pelanggan
 
 ### 14.1. Target Ketersediaan Layanan dan Pemeliharaan Terjadwal
 
-14.1.1. Penyedia melakukan upaya yang wajar secara komersial untuk menyediakan Platform sesuai dengan target ketersediaan bulanan sebesar [UPTIME TARGET, e.g., 99.0%] sebagaimana tercantum dalam [Lampiran D (docs/platform-legal/annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md), tidak termasuk Pemeliharaan Terjadwal dan pengecualian yang tercantum dalam [Lampiran D](./annexes/annex-d-service-level-and-support.id.md).
+14.1.1. Penyedia melakukan upaya yang wajar secara komersial untuk menyediakan Platform sesuai dengan target ketersediaan bulanan sebesar [UPTIME TARGET, e.g., 99.0%] sebagaimana tercantum dalam [Lampiran D (annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md), tidak termasuk Pemeliharaan Terjadwal dan pengecualian yang tercantum dalam [Lampiran D](./annexes/annex-d-service-level-and-support.id.md).
 
 14.1.2. Penyedia dapat melaksanakan Pemeliharaan Terjadwal dengan memberikan pemberitahuan sekurang-kurangnya [MAINTENANCE NOTICE HOURS, e.g., twenty-four (24) hours] sebelumnya melalui Dasbor Utama atau surat elektronik.
 
@@ -544,7 +544,7 @@
 
 ### 14.3. Kanal Dukungan Pelanggan, Jam Operasional, dan Target Waktu Tanggap
 
-14.3.1. Penyedia menyediakan layanan dukungan pelanggan melalui kanal dukungan resmi, jam operasional, dan target waktu tanggap yang ditetapkan dalam [Lampiran D (docs/platform-legal/annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md) ([SUPPORT EMAIL], [SUPPORT WHATSAPP NUMBER], dan [SUPPORT TELEGRAM HANDLE]).
+14.3.1. Penyedia menyediakan layanan dukungan pelanggan melalui kanal dukungan resmi, jam operasional, dan target waktu tanggap yang ditetapkan dalam [Lampiran D (annexes/annex-d-service-level-and-support.id.md)](./annexes/annex-d-service-level-and-support.id.md) ([SUPPORT EMAIL], [SUPPORT WHATSAPP NUMBER], dan [SUPPORT TELEGRAM HANDLE]).
 
 ## 15. Pasal 15. Pernyataan Jaminan dan Penafian
 
@@ -566,7 +566,7 @@
 
 ### 16.1. Kewajiban Ganti Rugi oleh Pelanggan
 
-16.1.1. Pelanggan wajib membela, memberikan ganti rugi, dan membebaskan Penyedia, afiliasinya, direktur, pejabat, dan karyawannya dari dan terhadap setiap klaim pihak ketiga, tuntutan, tindakan regulator, kerugian, kerusakan, denda, dan biaya hukum yang wajar yang timbul dari atau berkaitan dengan: (a) Konten Pelanggan atau produk maupun layanan apa pun yang diiklankan atau dijual oleh Pelanggan, (b) setiap sengketa, wanprestasi, atau klaim konsumen antara Pelanggan dan Pengguna Akhir mana pun, (c) pelanggaran oleh Pelanggan terhadap [Pasal 8 (Penggunaan yang Dapat Diterima)](#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang) atau [Lampiran B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), (d) pelanggaran oleh Pelanggan terhadap ketentuan WhatsApp atau Telegram maupun hukum pelindungan data yang berlaku dalam kapasitasnya sebagai Pengendali Data, atau (e) pelanggaran hak Kekayaan Intelektual atau hak privasi pihak ketiga oleh Konten Pelanggan atau aset merek Pelanggan.
+16.1.1. Pelanggan wajib membela, memberikan ganti rugi, dan membebaskan Penyedia, afiliasinya, direktur, pejabat, dan karyawannya dari dan terhadap setiap klaim pihak ketiga, tuntutan, tindakan regulator, kerugian, kerusakan, denda, dan biaya hukum yang wajar yang timbul dari atau berkaitan dengan: (a) Konten Pelanggan atau produk maupun layanan apa pun yang diiklankan atau dijual oleh Pelanggan, (b) setiap sengketa, wanprestasi, atau klaim konsumen antara Pelanggan dan Pengguna Akhir mana pun, (c) pelanggaran oleh Pelanggan terhadap [Pasal 8 (Penggunaan yang Dapat Diterima)](#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang) atau [Lampiran B (annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), (d) pelanggaran oleh Pelanggan terhadap ketentuan WhatsApp atau Telegram maupun hukum pelindungan data yang berlaku dalam kapasitasnya sebagai Pengendali Data, atau (e) pelanggaran hak Kekayaan Intelektual atau hak privasi pihak ketiga oleh Konten Pelanggan atau aset merek Pelanggan.
 
 ### 16.2. Kewajiban Ganti Rugi oleh Penyedia
 
@@ -610,7 +610,7 @@
 
 ### 18.2. Penangguhan Administratif atau Pemblokiran Akun karena Pelanggaran
 
-18.2.1. Tanpa mengurangi ketentuan Penangguhan Penagihan berdasarkan [Pasal 7](#7-pasal-7-keterlambatan-pembayaran-masa-tenggang-penangguhan-pembatalan-dan-penyimpanan-data), Penyedia dapat secara seketika menangguhkan suatu Agen AI tertentu atau menangguhkan maupun memblokir akun Dasbor Utama milik Pelanggan apabila Penyedia secara wajar menilai bahwa: (a) Pelanggan atau Agen AI miliknya melanggar [Pasal 8 (Penggunaan yang Dapat Diterima)](#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang) atau [Lampiran B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), (b) akun Pelanggan telah disusupi atau digunakan untuk aktivitas penipuan, (c) kelanjutan operasional Agen AI menimbulkan ancaman keamanan, hukum, atau operasional seketika terhadap Platform atau pihak ketiga, atau (d) penangguhan diwajibkan oleh pengadilan, regulator, atau aparat penegak hukum.
+18.2.1. Tanpa mengurangi ketentuan Penangguhan Penagihan berdasarkan [Pasal 7](#7-pasal-7-keterlambatan-pembayaran-masa-tenggang-penangguhan-pembatalan-dan-penyimpanan-data), Penyedia dapat secara seketika menangguhkan suatu Agen AI tertentu atau menangguhkan maupun memblokir akun Dasbor Utama milik Pelanggan apabila Penyedia secara wajar menilai bahwa: (a) Pelanggan atau Agen AI miliknya melanggar [Pasal 8 (Penggunaan yang Dapat Diterima)](#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang) atau [Lampiran B (annexes/annex-b-acceptable-use-and-uploads.id.md)](./annexes/annex-b-acceptable-use-and-uploads.id.md), (b) akun Pelanggan telah disusupi atau digunakan untuk aktivitas penipuan, (c) kelanjutan operasional Agen AI menimbulkan ancaman keamanan, hukum, atau operasional seketika terhadap Platform atau pihak ketiga, atau (d) penangguhan diwajibkan oleh pengadilan, regulator, atau aparat penegak hukum.
 
 18.2.2. Ketika Penyedia melaksanakan penangguhan atau pemblokiran administratif, Platform mencatat tindakan administratif, waktu, dan alasan yang dinyatakan di dalam log audit sistemnya serta mencabut token sesi aktif untuk akun yang terdampak. Sepanjang memungkinkan dan diizinkan secara hukum, Penyedia akan memberitahu Pelanggan mengenai alasan penangguhan administratif tersebut dan memberikan kesempatan untuk memperbaiki pelanggaran apabila dapat diperbaiki.
 
@@ -628,7 +628,7 @@
 
 18.4.3. [LAWYER DECISION: Confirm whether the Parties expressly waive the provisions of Article 1266 of the Indonesian Civil Code (Kitab Undang-Undang Hukum Perdata) to the extent that a prior judicial pronouncement would otherwise be required to effect the suspension or termination of this Agreement in accordance with its terms.]
 
-18.4.4. Ketentuan berikut tetap berlaku setelah berakhirnya atau diakhirinya Perjanjian ini: [Pasal 1](#1-pasal-1-definisi-dan-penafsiran), [Pasal 2.2](#22-ruang-lingkup-bisnis-ke-bisnis-dan-pemisahan-ketentuan-konsumen), [Pasal 7.5](#75-penghapusan-permanen-data-agen-ai-dan-catatan-akun-yang-dipertahankan), [Pasal 9](#9-pasal-9-keluaran-akal-imitasi-virtual-try-on-dan-kewajiban-verifikasi), [Pasal 11](#11-pasal-11-hak-kekayaan-intelektual-konten-pelanggan-dan-masukan), [Pasal 12](#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden) (selama data masih disimpan berdasarkan [Lampiran C pada docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)), [Pasal 13](#13-pasal-13-kerahasiaan), [Pasal 15](#15-pasal-15-pernyataan-jaminan-dan-penafian), [Pasal 16](#16-pasal-16-ganti-rugi), [Pasal 17](#17-pasal-17-pembatasan-tanggung-jawab), [Pasal 18.4](#184-akibat-pengakhiran-kajian-pengesampingan-pasal-hukum-dan-pasal-yang-tetap-berlaku), [Pasal 19](#19-pasal-19-nilai-pembuktian-catatan-sistem-log-audit-dan-tanda-tangan-elektronik), [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum), dan [Lampiran F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md).
+18.4.4. Ketentuan berikut tetap berlaku setelah berakhirnya atau diakhirinya Perjanjian ini: [Pasal 1](#1-pasal-1-definisi-dan-penafsiran), [Pasal 2.2](#22-ruang-lingkup-bisnis-ke-bisnis-dan-pemisahan-ketentuan-konsumen), [Pasal 7.5](#75-penghapusan-permanen-data-agen-ai-dan-catatan-akun-yang-dipertahankan), [Pasal 9](#9-pasal-9-keluaran-akal-imitasi-virtual-try-on-dan-kewajiban-verifikasi), [Pasal 11](#11-pasal-11-hak-kekayaan-intelektual-konten-pelanggan-dan-masukan), [Pasal 12](#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden) (selama data masih disimpan berdasarkan [Lampiran C pada annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)), [Pasal 13](#13-pasal-13-kerahasiaan), [Pasal 15](#15-pasal-15-pernyataan-jaminan-dan-penafian), [Pasal 16](#16-pasal-16-ganti-rugi), [Pasal 17](#17-pasal-17-pembatasan-tanggung-jawab), [Pasal 18.4](#184-akibat-pengakhiran-kajian-pengesampingan-pasal-hukum-dan-pasal-yang-tetap-berlaku), [Pasal 19](#19-pasal-19-nilai-pembuktian-catatan-sistem-log-audit-dan-tanda-tangan-elektronik), [Pasal 20](#20-pasal-20-hukum-yang-berlaku-penyelesaian-sengketa-bahasa-perubahan-dan-ketentuan-umum), dan [Lampiran F (annexes/annex-f-consumer-facing-terms.id.md)](./annexes/annex-f-consumer-facing-terms.id.md).
 
 ## 19. Pasal 19. Nilai Pembuktian, Catatan Sistem, Log Audit, dan Tanda Tangan Elektronik
 
@@ -660,7 +660,7 @@
 
 ### 20.3. Penyusunan Dwi-Bahasa dan Bahasa yang Berlaku
 
-20.3.1. Perjanjian ini disusun dan disediakan dalam Bahasa Indonesia ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)) dan Bahasa Inggris ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)). Kedua versi bahasa tersebut memiliki struktur pasal dan penomoran ayat yang identik.
+20.3.1. Perjanjian ini disusun dan disediakan dalam Bahasa Indonesia ([terms-and-conditions.id.md](./terms-and-conditions.id.md)) dan Bahasa Inggris ([terms-and-conditions.en.md](./terms-and-conditions.en.md)). Kedua versi bahasa tersebut memiliki struktur pasal dan penomoran ayat yang identik.
 
 20.3.2. Apabila terdapat ketidaksesuaian, perbedaan, atau perbedaan penafsiran antara versi Bahasa Indonesia dan versi Bahasa Inggris dari Perjanjian ini, maka versi bahasa [PREVAILING LANGUAGE, e.g., Indonesian] yang akan berlaku dan mengikat. [LAWYER DECISION: Confirm under Law No. 24 of 2009 of the Republic of Indonesia on the Flag, Language, State Emblem, and National Anthem and Presidential Regulation No. 63 of 2019 whether the Indonesian version must prevail for all Indonesian Customers and whether the English version may be designated as prevailing for non-Indonesian Customers.]
 
@@ -678,11 +678,11 @@
 
 20.5.3. Kegagalan atau keterlambatan oleh salah satu Pihak dalam menggunakan hak atau upaya hukum apa pun berdasarkan Perjanjian ini tidak berlaku sebagai pengesampingan atas hak atau upaya hukum tersebut, dan pelaksanaan tunggal atau sebagian atas suatu hak atau upaya hukum tidak menghalangi pelaksanaan lainnya atau selanjutnya.
 
-20.5.4. Perjanjian ini ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md), termasuk [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F](./annexes/annex-f-consumer-facing-terms.id.md) serta Cuplikan Kuota yang berlaku) merupakan keseluruhan perjanjian antara Para Pihak berkaitan dengan pokok pengaturannya dan menggantikan seluruh usulan, pernyataan, atau kesepahaman lisan maupun tertulis sebelumnya di antara Para Pihak.
+20.5.4. Perjanjian ini ([terms-and-conditions.id.md](./terms-and-conditions.id.md), termasuk [Lampiran A](./annexes/annex-a-subscription-plans-quotas-credits.id.md) sampai dengan [Lampiran F](./annexes/annex-f-consumer-facing-terms.id.md) serta Cuplikan Kuota yang berlaku) merupakan keseluruhan perjanjian antara Para Pihak berkaitan dengan pokok pengaturannya dan menggantikan seluruh usulan, pernyataan, atau kesepahaman lisan maupun tertulis sebelumnya di antara Para Pihak.
 
 ## 21. Lampiran A. Jadwal Paket Langganan, Kuota, Model AI, dan Sistem Kredit
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md)
+Path Dokumen Lampiran: [annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md)
 
 ### 21.1. Parameter Paket Langganan dan Cuplikan Periode yang Dibekukan
 
@@ -716,7 +716,7 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-a-subscription-plans-q
 
 ## 22. Lampiran B. Kebijakan Penggunaan yang Dapat Diterima dan Spesifikasi Unggahan Dokumen
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md)
+Path Dokumen Lampiran: [annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md)
 
 ### 22.1. Kategori Konten Terlarang dan Penggunaan Melawan Hukum
 
@@ -750,7 +750,7 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-b-acceptable-use-and-u
 
 ## 23. Lampiran C. Jadwal Pemrosesan dan Penyimpanan Data
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)
+Path Dokumen Lampiran: [annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md)
 
 ### 23.1. Kategori Subjek Data, Data Pribadi, dan Peran Pemrosesan
 
@@ -795,7 +795,7 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-c-data-processing-and-
 
 ## 24. Lampiran D. Jadwal Tingkat Layanan, Pemeliharaan, dan Dukungan
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md)
+Path Dokumen Lampiran: [annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md)
 
 ### 24.1. Target Ketersediaan Layanan dan Pengecualian
 
@@ -829,7 +829,7 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-d-service-level-and-su
 
 ## 25. Lampiran E. Jadwal Kanal Pihak Ketiga dan Widget Situs Web
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md)
+Path Dokumen Lampiran: [annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md)
 
 ### 25.1. Persyaratan Penghubungan dan Ketentuan Operasional WhatsApp Business
 
@@ -854,15 +854,15 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-e-third-party-channels
 
 ## 26. Lampiran F. Ketentuan Menghadap Konsumen bagi Pengguna Akhir dan Pembeli
 
-Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)
+Path Dokumen Lampiran: [annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)
 
 ### 26.1. Keberlakuan, Peran Pelanggan Pedagang, dan Peran Platform
 
-26.1.1. Ketentuan Menghadap Konsumen ini ([Lampiran F, terdapat pada docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)) berlaku bagi setiap Pengguna Akhir, pembeli, atau pengunjung yang berinteraksi dengan Agen AI, Etalase Web Terkelola, Widget Situs Web, akun WhatsApp, atau bot Telegram yang didukung oleh Platform 3Bee.
+26.1.1. Ketentuan Menghadap Konsumen ini ([Lampiran F, terdapat pada annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md)) berlaku bagi setiap Pengguna Akhir, pembeli, atau pengunjung yang berinteraksi dengan Agen AI, Etalase Web Terkelola, Widget Situs Web, akun WhatsApp, atau bot Telegram yang didukung oleh Platform 3Bee.
 
 26.1.2. Toko, merek, produk, dan layanan yang ditampilkan oleh Agen AI dimiliki, dioperasikan, dan dijual secara independen oleh pelaku usaha pedagang terkait (Pedagang) yang tercantum pada etalase atau kanal perpesanan tersebut.
 
-26.1.3. [COMPANY LEGAL NAME] (3Bee) semata-mata merupakan penyedia teknologi yang menyediakan infrastruktur perangkat lunak bagi Agen AI tersebut berdasarkan [Perjanjian Layanan (docs/platform-legal/terms-and-conditions.id.md)](./terms-and-conditions.id.md). 3Bee tidak memiliki, memproduksi, menyimpan stok, menetapkan harga, menjual, mengirimkan, atau menjamin produk maupun layanan apa pun yang ditawarkan oleh Pedagang, dan 3Bee bukan merupakan pihak dalam transaksi pembelian, pemesanan, atau pembayaran apa pun antara Pengguna Akhir dan Pedagang.
+26.1.3. [COMPANY LEGAL NAME] (3Bee) semata-mata merupakan penyedia teknologi yang menyediakan infrastruktur perangkat lunak bagi Agen AI tersebut berdasarkan [Perjanjian Layanan (terms-and-conditions.id.md)](./terms-and-conditions.id.md). 3Bee tidak memiliki, memproduksi, menyimpan stok, menetapkan harga, menjual, mengirimkan, atau menjamin produk maupun layanan apa pun yang ditawarkan oleh Pedagang, dan 3Bee bukan merupakan pihak dalam transaksi pembelian, pemesanan, atau pembayaran apa pun antara Pengguna Akhir dan Pedagang.
 
 ### 26.2. Respons AI Otomatis, Informasi Produk, dan Verifikasi oleh Pengguna Akhir
 
@@ -882,7 +882,7 @@ Path Dokumen Lampiran: [docs/platform-legal/annexes/annex-f-consumer-facing-term
 
 ### 26.4. Penyimpanan Sesi Pengguna Akhir, Retensi Data, dan Hak Privasi
 
-26.4.1. Untuk tujuan menjaga kesinambungan percakapan selama sesi belanja, Agen AI menyimpan riwayat obrolan Pengguna Akhir, status sesi, dan rincian kontak apa pun yang dibagikan secara sukarela dalam obrolan selama dua puluh empat (24) jam (86.400 detik) sejak pesan terakhir Pengguna Akhir, serta menyimpan salinan lokal pada penyimpanan peramban web milik Pengguna Akhir hingga dua puluh empat (24) jam (yang dapat dihapus kapan saja oleh Pengguna Akhir menggunakan tombol atur ulang obrolan atau pengaturan peramban), sebagaimana dirinci dalam [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md).
+26.4.1. Untuk tujuan menjaga kesinambungan percakapan selama sesi belanja, Agen AI menyimpan riwayat obrolan Pengguna Akhir, status sesi, dan rincian kontak apa pun yang dibagikan secara sukarela dalam obrolan selama dua puluh empat (24) jam (86.400 detik) sejak pesan terakhir Pengguna Akhir, serta menyimpan salinan lokal pada penyimpanan peramban web milik Pengguna Akhir hingga dua puluh empat (24) jam (yang dapat dihapus kapan saja oleh Pengguna Akhir menggunakan tombol atur ulang obrolan atau pengaturan peramban), sebagaimana dirinci dalam [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annexes/annex-c-data-processing-and-retention.id.md).
 
 26.4.2. Untuk membantu Pedagang memahami keterlibatan pengunjung dan meningkatkan respons tokonya, Platform mencatat Analitik Pengunjung yang telah dide-identifikasi (seperti durasi sesi, jumlah pesan, kategori perangkat/peramban secara umum, dan topik produk yang belum terjawab) yang dikaitkan dengan tanda kriptografis pengunjung satu arah selama sembilan puluh (90) hari.
 

@@ -1,14 +1,14 @@
-# Developer Specification: Terms Acceptance Recording, Re-Acceptance Gate, and Version Archive
+﻿# Developer Specification: Terms Acceptance Recording, Re-Acceptance Gate, and Version Archive
 
-Document Path: [docs/platform-legal/acceptance-implementation.md](./acceptance-implementation.md)
-Master Legal Directory: [docs/platform-legal/README.md](./README.md)
+Document Path: [acceptance-implementation.md](./acceptance-implementation.md)
+Master Legal Directory: [README.md](./README.md)
 Related Documents:
-- Terms and Conditions (Indonesian): [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)
-- Terms and Conditions (English): [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Table of Contents (Indonesian): [docs/platform-legal/TOC.id.md](./TOC.id.md)
-- Table of Contents (English): [docs/platform-legal/TOC.en.md](./TOC.en.md)
-- Internal Fact Sheet: [docs/platform-legal/fact-sheet.md](./fact-sheet.md)
-- Clause-to-Function Mapping: [docs/platform-legal/clause-function-map.md](./clause-function-map.md)
+- Terms and Conditions (Indonesian): [terms-and-conditions.id.md](./terms-and-conditions.id.md)
+- Terms and Conditions (English): [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Table of Contents (Indonesian): [TOC.id.md](./TOC.id.md)
+- Table of Contents (English): [TOC.en.md](./TOC.en.md)
+- Internal Fact Sheet: [fact-sheet.md](./fact-sheet.md)
+- Clause-to-Function Mapping: [clause-function-map.md](./clause-function-map.md)
 
 ## 1. Objective and Legal Evidentiary Requirements
 
@@ -16,7 +16,7 @@ To satisfy **Function 1 (Binding Contract)** and **Function 6 (Usable Evidence i
 
 1. **Per-User Acceptance Recording**: Every acceptance event must persist the **accepted version** (`terms_version`), **UTC timestamp** (`accepted_at`), **account identifier** (`user_id` and `username`), and **acceptance method** (`acceptance_method`), together with corroborating request metadata (`client_ip`, `user_agent`, `language`, and SHA-256 hashes of the accepted Markdown files).
 2. **Mandatory Re-Acceptance When Terms Change**: Whenever a new Terms version is published with `require_reacceptance = true`, existing authenticated users whose `accepted_terms_version` does not match the active version must be gated from dashboard mutations and AI Agent deployments until they complete explicit re-acceptance.
-3. **Permanent Retrievability of Past Versions**: Every historical version of [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md) and [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md) (along with Annexes A–F in `docs/platform-legal/annexes/`) must remain stored and retrievable by version identifier so that any acceptance record can be matched to the exact contract text that was in force at the timestamp of acceptance.
+3. **Permanent Retrievability of Past Versions**: Every historical version of [terms-and-conditions.id.md](./terms-and-conditions.id.md) and [terms-and-conditions.en.md](./terms-and-conditions.en.md) (along with Annexes A–F in `annexes/`) must remain stored and retrievable by version identifier so that any acceptance record can be matched to the exact contract text that was in force at the timestamp of acceptance.
 4. **Surviving Audit Trail**: Acceptance records must never be deleted by subscription termination or the 15-day post-suspension data purge (`BillingSuspendRetentionDays`).
 
 ---
@@ -25,10 +25,10 @@ To satisfy **Function 1 (Binding Contract)** and **Function 6 (Usable Evidence i
 
 | Component | File Path | Current Behavior | Gap to Close |
 | :--- | :--- | :--- | :--- |
-| **Registration UI (Step 3)** | [templates/register.html](../../templates/register.html) & [assets/js/register.js](../../assets/js/register.js) | Renders `<input type="checkbox" id="terms" name="terms" required>` with placeholder `href="#"` links and validates `termsCheckbox.checked` client-side only. | Must link to the live Terms route, display the active `terms_version`, and send `terms_accepted: true`, `terms_version`, and `terms_language` in the `POST /api/v1/register/complete` JSON payload. |
-| **Registration Handler & Usecase** | [internal/interface/api/v1/handler/register.go](../../internal/interface/api/v1/handler/register.go) & [internal/usecase/register/complete.go](../../internal/usecase/register/complete.go) | `CompleteRegistrationRequest` binds `session_id`, `business_name`, `full_name`, `username`, and `password`. Does not validate or store Terms acceptance. | Must require `terms_accepted == true` and a valid `terms_version`, write an append-only record to `terms_acceptances`, and populate `AcceptedTermsVersion`, `AcceptedTermsAt`, and `AcceptedTermsMethod` on `UserInfo`. |
-| **Google OAuth Login** | [internal/interface/api/v1/handler/login.go](../../internal/interface/api/v1/handler/login.go) & [internal/usecase/login/login.go](../../internal/usecase/login/login.go) | `POST /api/v1/login/google` auto-creates a `UserInfo` record on first sign-in without recording Terms acceptance. | Newly created or existing users whose `AcceptedTermsVersion` is empty or outdated must be flagged with `terms_acceptance_required: true` and prompted via the re-acceptance modal before using the dashboard. |
-| **User Domain Entity** | [internal/domain/user/user.go](../../internal/domain/user/user.go) | `UserInfo` stores `ID`, `Username`, `Email`, `PhoneNumber`, `FullName`, `BusinessName`, `Password`, `Roles`, `IsBanned`, `CreatedAt`, `UpdatedAt`. | Add `AcceptedTermsVersion string`, `AcceptedTermsAt *time.Time`, and `AcceptedTermsMethod string` to `UserInfo`. |
+| **Registration UI (Step 3)** | `templates/register.html` & `assets/js/register.js` | Renders `<input type="checkbox" id="terms" name="terms" required>` with placeholder `href="#"` links and validates `termsCheckbox.checked` client-side only. | Must link to the live Terms route, display the active `terms_version`, and send `terms_accepted: true`, `terms_version`, and `terms_language` in the `POST /api/v1/register/complete` JSON payload. |
+| **Registration Handler & Usecase** | `internal/interface/api/v1/handler/register.go` & `internal/usecase/register/complete.go` | `CompleteRegistrationRequest` binds `session_id`, `business_name`, `full_name`, `username`, and `password`. Does not validate or store Terms acceptance. | Must require `terms_accepted == true` and a valid `terms_version`, write an append-only record to `terms_acceptances`, and populate `AcceptedTermsVersion`, `AcceptedTermsAt`, and `AcceptedTermsMethod` on `UserInfo`. |
+| **Google OAuth Login** | `internal/interface/api/v1/handler/login.go` & `internal/usecase/login/login.go` | `POST /api/v1/login/google` auto-creates a `UserInfo` record on first sign-in without recording Terms acceptance. | Newly created or existing users whose `AcceptedTermsVersion` is empty or outdated must be flagged with `terms_acceptance_required: true` and prompted via the re-acceptance modal before using the dashboard. |
+| **User Domain Entity** | `internal/domain/user/user.go` | `UserInfo` stores `ID`, `Username`, `Email`, `PhoneNumber`, `FullName`, `BusinessName`, `Password`, `Roles`, `IsBanned`, `CreatedAt`, `UpdatedAt`. | Add `AcceptedTermsVersion string`, `AcceptedTermsAt *time.Time`, and `AcceptedTermsMethod string` to `UserInfo`. |
 
 ---
 
@@ -104,7 +104,7 @@ type TermsAcceptance struct {
 2. `{ "user_id": 1, "terms_version": 1 }` — fast verification of whether a user accepted a specific version
 3. `{ "terms_version": 1, "accepted_at": -1 }` — compliance auditing by version
 
-### 3.3. Denormalized Fields on `UserInfo` ([internal/domain/user/user.go](../../internal/domain/user/user.go))
+### 3.3. Denormalized Fields on `UserInfo` (`internal/domain/user/user.go`)
 
 Add the following fields to `UserInfo` so authentication and middleware checks can verify acceptance status in O(1) without an extra collection join on every request:
 
@@ -119,7 +119,7 @@ AcceptedTermsMethod  string     `bson:"accepted_terms_method,omitempty" json:"ac
 ## 4. Startup Seeding and Version Archival Lifecycle
 
 1. **Automatic Version Sync on Startup**:
-   - On server startup, a seeder reads [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md) and [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md) alongside the configured `LEGAL_TERMS_VERSION` (e.g., `"1.0"`) and `LEGAL_TERMS_EFFECTIVE_DATE`.
+   - On server startup, a seeder reads [terms-and-conditions.id.md](./terms-and-conditions.id.md) and [terms-and-conditions.en.md](./terms-and-conditions.en.md) alongside the configured `LEGAL_TERMS_VERSION` (e.g., `"1.0"`) and `LEGAL_TERMS_EFFECTIVE_DATE`.
    - It computes `sha256(content_id_md)` and `sha256(content_en_md)`.
    - If `terms_versions` does not yet contain `version == LEGAL_TERMS_VERSION`, the seeder:
      1. Sets `is_current = false` on all existing `terms_versions` documents.
@@ -144,7 +144,7 @@ AcceptedTermsMethod  string     `bson:"accepted_terms_method,omitempty" json:"ac
 
 ### 5.2. Flow 1 — Standard Registration Acceptance (`POST /api/v1/register/complete`)
 
-1. **Request Payload ([internal/interface/api/v1/handler/register.go](../../internal/interface/api/v1/handler/register.go))**:
+1. **Request Payload (`internal/interface/api/v1/handler/register.go`)**:
    Extend `CompleteRegistrationRequest`:
    ```go
    type CompleteRegistrationRequest struct {
@@ -158,7 +158,7 @@ AcceptedTermsMethod  string     `bson:"accepted_terms_method,omitempty" json:"ac
        TermsLanguage string `json:"terms_language"`
    }
    ```
-2. **Usecase Validation ([internal/usecase/register/complete.go](../../internal/usecase/register/complete.go))**:
+2. **Usecase Validation (`internal/usecase/register/complete.go`)**:
    - Reject with `400 Bad Request` (`ErrTermsNotAccepted`) if `!req.TermsAccepted`.
    - Fetch the active `TermsVersion` (`is_current == true`). Reject with `409 Conflict` (`ErrTermsVersionOutdated`) if `req.TermsVersion != currentTerms.Version` so the client refreshes and displays the latest contract text.
    - Generate `now := time.Now().UTC()`.
@@ -237,4 +237,4 @@ AcceptedTermsMethod  string     `bson:"accepted_terms_method,omitempty" json:"ac
    - Verify successful registration creates both the `UserInfo` fields and an entry in `terms_acceptances` with `acceptance_method = "register_checkbox"`, non-empty `user_id`, `terms_version`, and UTC `accepted_at`.
    - Verify a user created via `POST /api/v1/login/google` has `reacceptance_required = true` until `POST /api/v1/legal/terms/accept` is called, and is blocked by `RequireCurrentTermsAcceptance` from deploying AI Agents or creating invoices before accepting.
    - Verify publishing version `"1.1"` with `require_reacceptance = true` immediately gates a user who previously accepted `"1.0"`, and that after calling `POST /api/v1/legal/terms/accept` for `"1.1"`, both `"1.0"` and `"1.1"` records exist in `terms_acceptances` and both `"1.0"` and `"1.1"` contract texts remain retrievable via `GET /api/v1/legal/terms/versions/:version`.
-   - Verify the subscription purge job (`purgeExpiredSuspended` in [internal/usecase/payment/scheduler.go](../../internal/usecase/payment/scheduler.go)) never deletes documents from `terms_versions` or `terms_acceptances`.
+   - Verify the subscription purge job (`purgeExpiredSuspended` in `internal/usecase/payment/scheduler.go`) never deletes documents from `terms_versions` or `terms_acceptances`.

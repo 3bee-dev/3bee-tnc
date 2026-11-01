@@ -1,18 +1,18 @@
 # Internal Clause-to-Function Mapping, Placeholder Registry, and Lawyer Decisions
 
-Document Path: [docs/platform-legal/clause-function-map.md](./clause-function-map.md)
-Master Legal Directory: [docs/platform-legal/README.md](./README.md)
+Document Path: [clause-function-map.md](./clause-function-map.md)
+Master Legal Directory: [README.md](./README.md)
 Related Documents:
-- Terms and Conditions (Indonesian): [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)
-- Terms and Conditions (English): [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Table of Contents (Indonesian): [docs/platform-legal/TOC.id.md](./TOC.id.md)
-- Table of Contents (English): [docs/platform-legal/TOC.en.md](./TOC.en.md)
-- Internal Fact Sheet: [docs/platform-legal/fact-sheet.md](./fact-sheet.md)
-- Developer Acceptance Specification: [docs/platform-legal/acceptance-implementation.md](./acceptance-implementation.md)
+- Terms and Conditions (Indonesian): [terms-and-conditions.id.md](./terms-and-conditions.id.md)
+- Terms and Conditions (English): [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Table of Contents (Indonesian): [TOC.id.md](./TOC.id.md)
+- Table of Contents (English): [TOC.en.md](./TOC.en.md)
+- Internal Fact Sheet: [fact-sheet.md](./fact-sheet.md)
+- Developer Acceptance Specification: [acceptance-implementation.md](./acceptance-implementation.md)
 
 ## 1. Legend of Required Legal Functions (Functions 1 to 6)
 
-Every article and annex in [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md) and [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md) is engineered and tagged to serve one or more of the six required legal functions:
+Every article and annex in [terms-and-conditions.id.md](./terms-and-conditions.id.md) and [terms-and-conditions.en.md](./terms-and-conditions.en.md) is engineered and tagged to serve one or more of the six required legal functions:
 
 - **Function 1 (F1 — Binding Contract)**: Establishes a legally binding contract between the Provider and the Customer (capacity, offer, electronic acceptance, consideration, term, amendments, governing law).
 - **Function 2 (F2 — Rights and Obligations)**: Clearly states the operational, commercial, billing, data-processing, and support rights and obligations of both the Provider and the Customer.
@@ -144,7 +144,7 @@ Every article and annex in [docs/platform-legal/terms-and-conditions.id.md](./te
 
 ## 3. Complete Inventory of Open Placeholders (`[...]`)
 
-All unconfirmed corporate, financial, and operational policy figures are represented by identical bracketed placeholders in both [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md) and [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md):
+All unconfirmed corporate, financial, and operational policy figures are represented by identical bracketed placeholders in both [terms-and-conditions.en.md](./terms-and-conditions.en.md) and [terms-and-conditions.id.md](./terms-and-conditions.id.md):
 
 | Placeholder Token | Locations in Terms (EN & ID) | Fact Sheet Status / Required Input from Business or Counsel |
 | :--- | :--- | :--- |
@@ -193,4 +193,4 @@ All unconfirmed corporate, financial, and operational policy figures are represe
 | **LD-4 (Waiver of Article 1266 of the Indonesian Civil Code)** | [Section 18.4.3 (EN)](./terms-and-conditions.en.md#184-consequences-of-termination-statutory-waiver-inquiry-and-surviving-clauses) / [Pasal 18.4.3 (ID)](./terms-and-conditions.id.md#184-akibat-pengakhiran-kajian-pengesampingan-pasal-hukum-dan-pasal-yang-tetap-berlaku) | `[LAWYER DECISION: Confirm whether the Parties expressly waive the provisions of Article 1266 of the Indonesian Civil Code (Kitab Undang-Undang Hukum Perdata) to the extent that a prior judicial pronouncement would otherwise be required to effect the suspension or termination of this Agreement in accordance with its terms.]` | Under Indonesian contract practice, Article 1266 of the Civil Code (`KUHPerdata`) is routinely waived in commercial contracts so that automated Billing Suspension (Article 7) and termination after the 15-day Retention Window do not require a prior court ruling. Counsel should confirm inclusion of the standard Article 1266 waiver language. |
 | **LD-5 (Dispute Resolution Forum: District Court vs Arbitration)** | [Section 20.2.2 (EN)](./terms-and-conditions.en.md#202-amicable-negotiation-and-dispute-resolution-forum) / [Pasal 20.2.2 (ID)](./terms-and-conditions.id.md#202-musyawarah-dan-forum-penyelesaian-sengketa) | `[LAWYER DECISION: Select whether disputes shall be resolved exclusively by a designated District Court in Indonesia (such as the Central Jakarta District Court) or by binding arbitration administered by the Indonesian National Board of Arbitration (BANI) or another arbitration institution, and specify the seat, rules, number of arbitrators, and language of proceedings.]` | For SaaS subscriptions with SME/enterprise tiers, District Court litigation (`Pengadilan Negeri`) is often preferred for lower filing costs on smaller claims, whereas `BANI` arbitration offers confidentiality and finality for larger enterprise disputes. |
 | **LD-6 (Prevailing Language under Law No. 24 of 2009)** | [Section 20.3.2 (EN)](./terms-and-conditions.en.md#203-dual-language-execution-and-prevailing-language) / [Pasal 20.3.2 (ID)](./terms-and-conditions.id.md#203-penyusunan-dwi-bahasa-dan-bahasa-yang-berlaku) | `[LAWYER DECISION: Confirm under Law No. 24 of 2009 of the Republic of Indonesia on the Flag, Language, State Emblem, and National Anthem and Presidential Regulation No. 63 of 2019 whether the Indonesian version must prevail for all Indonesian Customers and whether the English version may be designated as prevailing for non-Indonesian Customers.]` | Article 31 of Law No. 24 of 2009 and PR No. 63/2019 mandate Bahasa Indonesia in agreements involving Indonesian parties. Designating Bahasa Indonesia as the prevailing language for Indonesian Customers (and optionally English for foreign-domiciled Customers) mitigates statutory nullity risk. |
-| **LD-7 (SLA Service Credits vs Operational Target)** | [Section 24.1.3 (EN)](./terms-and-conditions.en.md#24-annex-d-service-level-maintenance-and-support-schedule) / [Pasal 24.1.3 (ID)](./terms-and-conditions.id.md#24-lampiran-d-jadwal-tingkat-layanan-pemeliharaan-dan-dukungan) ([Annex D (EN)](./annexes/annex-d-service-level-and-support.en.md#241-target-monthly-availability-and-sla-exclusions) / [Lampiran D (ID)](./annexes/annex-d-service-level-and-support.id.md#241-target-ketersediaan-bulanan-dan-pengecualian-sla)) | `[LAWYER DECISION: Confirm whether the Provider offers service credits (and if so, the exact credit percentage and claim procedure) if monthly availability falls below [UPTIME TARGET], or whether availability targets are non-credit operational objectives.]` | Because the codebase does not implement automated SLA credit calculations, counsel and business leadership should decide whether `[UPTIME TARGET]` is a non-credit commercial target or carries manual Credit Balance compensation upon verified claim. |
+| **LD-7 (SLA Service Credits vs Operational Target)** | [Section 24.1.3 (EN)](./terms-and-conditions.en.md#24-annex-d-service-level-maintenance-and-support-schedule) / [Pasal 24.1.3 (ID)](./terms-and-conditions.id.md#24-lampiran-d-jadwal-tingkat-layanan-pemeliharaan-dan-dukungan) ([Annex D (EN)](./annexes/annex-d-service-level-and-support.en.md#241-service-availability-target-and-exclusions) / [Lampiran D (ID)](./annexes/annex-d-service-level-and-support.id.md#241-target-ketersediaan-layanan-dan-pengecualian)) | `[LAWYER DECISION: Confirm whether the Provider offers service credits (and if so, the exact credit percentage and claim procedure) if monthly availability falls below [UPTIME TARGET], or whether availability targets are non-credit operational objectives.]` | Because the codebase does not implement automated SLA credit calculations, counsel and business leadership should decide whether `[UPTIME TARGET]` is a non-credit commercial target or carries manual Credit Balance compensation upon verified claim. |

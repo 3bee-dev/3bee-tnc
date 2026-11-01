@@ -1,17 +1,17 @@
-# 26. Annex F. Consumer-Facing Terms for End Users and Shoppers
+﻿# 26. Annex F. Consumer-Facing Terms for End Users and Shoppers
 
-- Document Path: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)
-- Parent Agreement Document Path: [docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#26-annex-f-consumer-facing-terms-for-end-users-and-shoppers)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](../TOC.en.md#26-annex-f-consumer-facing-terms-for-end-users-and-shoppers)
+- Document Path: [annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)
+- Counterpart Language Document Path: [annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)
+- Parent Agreement Document Path: [terms-and-conditions.en.md](../terms-and-conditions.en.md#26-annex-f-consumer-facing-terms-for-end-users-and-shoppers)
+- Table of Contents Document Path: [TOC.en.md](../TOC.en.md#26-annex-f-consumer-facing-terms-for-end-users-and-shoppers)
 
 ### 26.1. Applicability, Role of the Merchant Customer, and Role of the Platform
 
-26.1.1. These Consumer-Facing Terms ([Annex F, located at docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)) apply to every End User, shopper, or visitor who interacts with an AI Agent, Hosted Web Storefront, Web Widget, WhatsApp account, or Telegram bot powered by the 3Bee Platform.
+26.1.1. These Consumer-Facing Terms ([Annex F, located at annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)) apply to every End User, shopper, or visitor who interacts with an AI Agent, Hosted Web Storefront, Web Widget, WhatsApp account, or Telegram bot powered by the 3Bee Platform.
 
 26.1.2. The store, brand, products, and services presented by the AI Agent are owned, operated, and sold independently by the respective merchant business (Merchant) named on the storefront or messaging channel.
 
-26.1.3. [COMPANY LEGAL NAME] (3Bee) is solely the technology provider supplying the software infrastructure for the AI Agent under the [Service Agreement (docs/platform-legal/terms-and-conditions.en.md)](../terms-and-conditions.en.md). 3Bee does not own, manufacture, stock, price, sell, ship, or warrant any product or service offered by the Merchant, and 3Bee is not a party to any purchase, booking, or payment transaction between the End User and the Merchant.
+26.1.3. [COMPANY LEGAL NAME] (3Bee) is solely the technology provider supplying the software infrastructure for the AI Agent under the [Service Agreement (terms-and-conditions.en.md)](../terms-and-conditions.en.md). 3Bee does not own, manufacture, stock, price, sell, ship, or warrant any product or service offered by the Merchant, and 3Bee is not a party to any purchase, booking, or payment transaction between the End User and the Merchant.
 
 ### 26.2. Automated AI Responses, Product Information, and Verification by End Users
 
@@ -31,7 +31,7 @@
 
 ### 26.4. End-User Session Storage, Data Retention, and Privacy Rights
 
-26.4.1. For the purpose of maintaining conversation continuity during a shopping session, the AI Agent retains the End User's chat history, session state, and any contact details voluntarily shared in chat for twenty-four (24) hours (86,400 seconds) from the End User's last message, and stores a local copy in the End User's web browser storage for up to twenty-four (24) hours (which the End User may clear at any time using the reset chat button or browser settings), as detailed in [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annex-c-data-processing-and-retention.en.md).
+26.4.1. For the purpose of maintaining conversation continuity during a shopping session, the AI Agent retains the End User's chat history, session state, and any contact details voluntarily shared in chat for twenty-four (24) hours (86,400 seconds) from the End User's last message, and stores a local copy in the End User's web browser storage for up to twenty-four (24) hours (which the End User may clear at any time using the reset chat button or browser settings), as detailed in [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annex-c-data-processing-and-retention.en.md).
 
 26.4.2. To help the Merchant understand visitor engagement and improve its store responses, the Platform records de-identified Visitor Analytics (such as session duration, message counts, general device/browser category, and unanswered product topics) keyed by a one-way cryptographic visitor hash for ninety (90) days.
 

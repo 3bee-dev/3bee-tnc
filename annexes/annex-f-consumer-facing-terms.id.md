@@ -1,17 +1,17 @@
-# 26. Lampiran F. Ketentuan Menghadap Konsumen bagi Pengguna Akhir dan Pembeli
+﻿# 26. Lampiran F. Ketentuan Menghadap Konsumen bagi Pengguna Akhir dan Pembeli
 
-- Path Dokumen: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)
-- Path Dokumen Perjanjian Induk: [docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#26-lampiran-f-ketentuan-menghadap-konsumen-bagi-pengguna-akhir-dan-pembeli)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](../TOC.id.md#26-lampiran-f-ketentuan-menghadap-konsumen-bagi-pengguna-akhir-dan-pembeli)
+- Path Dokumen: [annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)
+- Path Dokumen Bahasa Pendamping: [annexes/annex-f-consumer-facing-terms.en.md](./annex-f-consumer-facing-terms.en.md)
+- Path Dokumen Perjanjian Induk: [terms-and-conditions.id.md](../terms-and-conditions.id.md#26-lampiran-f-ketentuan-menghadap-konsumen-bagi-pengguna-akhir-dan-pembeli)
+- Path Dokumen Daftar Isi: [TOC.id.md](../TOC.id.md#26-lampiran-f-ketentuan-menghadap-konsumen-bagi-pengguna-akhir-dan-pembeli)
 
 ### 26.1. Keberlakuan, Peran Pelanggan Pedagang, dan Peran Platform
 
-26.1.1. Ketentuan Menghadap Konsumen ini ([Lampiran F, terdapat pada docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)) berlaku bagi setiap Pengguna Akhir, pembeli, atau pengunjung yang berinteraksi dengan Agen AI, Etalase Web Terkelola, Widget Situs Web, akun WhatsApp, atau bot Telegram yang didukung oleh Platform 3Bee.
+26.1.1. Ketentuan Menghadap Konsumen ini ([Lampiran F, terdapat pada annexes/annex-f-consumer-facing-terms.id.md](./annex-f-consumer-facing-terms.id.md)) berlaku bagi setiap Pengguna Akhir, pembeli, atau pengunjung yang berinteraksi dengan Agen AI, Etalase Web Terkelola, Widget Situs Web, akun WhatsApp, atau bot Telegram yang didukung oleh Platform 3Bee.
 
 26.1.2. Toko, merek, produk, dan layanan yang ditampilkan oleh Agen AI dimiliki, dioperasikan, dan dijual secara independen oleh pelaku usaha pedagang terkait (Pedagang) yang tercantum pada etalase atau kanal perpesanan tersebut.
 
-26.1.3. [COMPANY LEGAL NAME] (3Bee) semata-mata merupakan penyedia teknologi yang menyediakan infrastruktur perangkat lunak bagi Agen AI tersebut berdasarkan [Perjanjian Layanan (docs/platform-legal/terms-and-conditions.id.md)](../terms-and-conditions.id.md). 3Bee tidak memiliki, memproduksi, menyimpan stok, menetapkan harga, menjual, mengirimkan, atau menjamin produk maupun layanan apa pun yang ditawarkan oleh Pedagang, dan 3Bee bukan merupakan pihak dalam transaksi pembelian, pemesanan, atau pembayaran apa pun antara Pengguna Akhir dan Pedagang.
+26.1.3. [COMPANY LEGAL NAME] (3Bee) semata-mata merupakan penyedia teknologi yang menyediakan infrastruktur perangkat lunak bagi Agen AI tersebut berdasarkan [Perjanjian Layanan (terms-and-conditions.id.md)](../terms-and-conditions.id.md). 3Bee tidak memiliki, memproduksi, menyimpan stok, menetapkan harga, menjual, mengirimkan, atau menjamin produk maupun layanan apa pun yang ditawarkan oleh Pedagang, dan 3Bee bukan merupakan pihak dalam transaksi pembelian, pemesanan, atau pembayaran apa pun antara Pengguna Akhir dan Pedagang.
 
 ### 26.2. Respons AI Otomatis, Informasi Produk, dan Verifikasi oleh Pengguna Akhir
 
@@ -31,7 +31,7 @@
 
 ### 26.4. Penyimpanan Sesi Pengguna Akhir, Retensi Data, dan Hak Privasi
 
-26.4.1. Untuk tujuan menjaga kesinambungan percakapan selama sesi belanja, Agen AI menyimpan riwayat obrolan Pengguna Akhir, status sesi, dan rincian kontak apa pun yang dibagikan secara sukarela dalam obrolan selama dua puluh empat (24) jam (86.400 detik) sejak pesan terakhir Pengguna Akhir, serta menyimpan salinan lokal pada penyimpanan peramban web milik Pengguna Akhir hingga dua puluh empat (24) jam (yang dapat dihapus kapan saja oleh Pengguna Akhir menggunakan tombol atur ulang obrolan atau pengaturan peramban), sebagaimana dirinci dalam [Lampiran C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md)](./annex-c-data-processing-and-retention.id.md).
+26.4.1. Untuk tujuan menjaga kesinambungan percakapan selama sesi belanja, Agen AI menyimpan riwayat obrolan Pengguna Akhir, status sesi, dan rincian kontak apa pun yang dibagikan secara sukarela dalam obrolan selama dua puluh empat (24) jam (86.400 detik) sejak pesan terakhir Pengguna Akhir, serta menyimpan salinan lokal pada penyimpanan peramban web milik Pengguna Akhir hingga dua puluh empat (24) jam (yang dapat dihapus kapan saja oleh Pengguna Akhir menggunakan tombol atur ulang obrolan atau pengaturan peramban), sebagaimana dirinci dalam [Lampiran C (annexes/annex-c-data-processing-and-retention.id.md)](./annex-c-data-processing-and-retention.id.md).
 
 26.4.2. Untuk membantu Pedagang memahami keterlibatan pengunjung dan meningkatkan respons tokonya, Platform mencatat Analitik Pengunjung yang telah dide-identifikasi (seperti durasi sesi, jumlah pesan, kategori perangkat/peramban secara umum, dan topik produk yang belum terjawab) yang dikaitkan dengan tanda kriptografis pengunjung satu arah selama sembilan puluh (90) hari.
 

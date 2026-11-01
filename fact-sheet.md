@@ -1,29 +1,29 @@
-# Internal Legal Fact Sheet: 3Bee AI Agent Builder Platform
+﻿# Internal Legal Fact Sheet: 3Bee AI Agent Builder Platform
 
-Document Path: [docs/platform-legal/fact-sheet.md](./fact-sheet.md)
-Master Legal Directory: [docs/platform-legal/README.md](./README.md)
+Document Path: [fact-sheet.md](./fact-sheet.md)
+Master Legal Directory: [README.md](./README.md)
 Related Documents:
-- Terms and Conditions (Indonesian): [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)
-- Terms and Conditions (English): [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Table of Contents (Indonesian): [docs/platform-legal/TOC.id.md](./TOC.id.md)
-- Table of Contents (English): [docs/platform-legal/TOC.en.md](./TOC.en.md)
-- Clause-to-Function Mapping: [docs/platform-legal/clause-function-map.md](./clause-function-map.md)
-- Developer Acceptance Specification: [docs/platform-legal/acceptance-implementation.md](./acceptance-implementation.md)
+- Terms and Conditions (Indonesian): [terms-and-conditions.id.md](./terms-and-conditions.id.md)
+- Terms and Conditions (English): [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Table of Contents (Indonesian): [TOC.id.md](./TOC.id.md)
+- Table of Contents (English): [TOC.en.md](./TOC.en.md)
+- Clause-to-Function Mapping: [clause-function-map.md](./clause-function-map.md)
+- Developer Acceptance Specification: [acceptance-implementation.md](./acceptance-implementation.md)
 
 ## 1. Document Purpose and Scope
 
 This internal fact sheet records the verified technical, operational, commercial, and data-processing facts of the 3Bee platform across its three repositories (`backend/dashboard`, `agent`, and `landing-page`). It serves as the factual baseline for drafting and reviewing:
-- Customer-facing Terms and Conditions: [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md) and [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Customer-facing Table of Contents: [docs/platform-legal/TOC.id.md](./TOC.id.md) and [docs/platform-legal/TOC.en.md](./TOC.en.md)
+- Customer-facing Terms and Conditions: [terms-and-conditions.id.md](./terms-and-conditions.id.md) and [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Customer-facing Table of Contents: [TOC.id.md](./TOC.id.md) and [TOC.en.md](./TOC.en.md)
 - Standalone Annexes / Lampiran (`Annex A` through `Annex F`):
-  - [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md) | [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
-  - [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md) | [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
-  - [docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md) | [docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
-  - [docs/platform-legal/annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md) | [docs/platform-legal/annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
-  - [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md) | [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
-  - [docs/platform-legal/annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md) | [docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
-- Internal Clause-to-Function Mapping: [docs/platform-legal/clause-function-map.md](./clause-function-map.md)
-- Developer Acceptance Specification: [docs/platform-legal/acceptance-implementation.md](./acceptance-implementation.md)
+  - [annexes/annex-a-subscription-plans-quotas-credits.id.md](./annexes/annex-a-subscription-plans-quotas-credits.id.md) | [annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
+  - [annexes/annex-b-acceptable-use-and-uploads.id.md](./annexes/annex-b-acceptable-use-and-uploads.id.md) | [annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
+  - [annexes/annex-c-data-processing-and-retention.id.md](./annexes/annex-c-data-processing-and-retention.id.md) | [annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
+  - [annexes/annex-d-service-level-and-support.id.md](./annexes/annex-d-service-level-and-support.id.md) | [annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
+  - [annexes/annex-e-third-party-channels-and-widget.id.md](./annexes/annex-e-third-party-channels-and-widget.id.md) | [annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
+  - [annexes/annex-f-consumer-facing-terms.id.md](./annexes/annex-f-consumer-facing-terms.id.md) | [annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
+- Internal Clause-to-Function Mapping: [clause-function-map.md](./clause-function-map.md)
+- Developer Acceptance Specification: [acceptance-implementation.md](./acceptance-implementation.md)
 
 Customer-facing documents must never expose internal technology stack details, database collection names, environment variables, framework names, or vendor names (other than customer-facing channels WhatsApp and Telegram). All unconfirmed corporate, financial, or legal policy parameters must remain bracketed placeholders (`[...]`) or lawyer decision markers (`[LAWYER DECISION: ...]`).
 
@@ -205,4 +205,4 @@ Customer-facing documents must never expose internal technology stack details, d
 2. **Backend (`internal/interface/api/v1/handler/register.go` & `internal/usecase/register/complete.go`)**:
    - `CompleteRegistrationRequest` currently binds only `session_id`, `business_name`, `full_name`, `username`, and `password`.
    - Neither `POST /api/v1/register/complete` nor `POST /api/v1/login/google` currently persists a Terms acceptance record (accepted version, timestamp, account identifier, or acceptance method), nor is there a middleware/gate requiring re-acceptance when the Terms version increments.
-   - [docs/platform-legal/acceptance-implementation.md](./acceptance-implementation.md) specifies the exact backend, database, and frontend implementation required to close this evidentiary gap.
+   - [acceptance-implementation.md](./acceptance-implementation.md) specifies the exact backend, database, and frontend implementation required to close this evidentiary gap.

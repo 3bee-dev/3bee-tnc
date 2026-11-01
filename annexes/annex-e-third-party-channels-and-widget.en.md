@@ -1,13 +1,13 @@
-# 25. Annex E. Third-Party Channels and Website Widget Schedule
+﻿# 25. Annex E. Third-Party Channels and Website Widget Schedule
 
-- Document Path: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md](./annex-e-third-party-channels-and-widget.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md](./annex-e-third-party-channels-and-widget.id.md)
-- Parent Agreement Document Path: [docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#25-annex-e-third-party-channels-and-website-widget-schedule)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](../TOC.en.md#25-annex-e-third-party-channels-and-website-widget-schedule)
+- Document Path: [annexes/annex-e-third-party-channels-and-widget.en.md](./annex-e-third-party-channels-and-widget.en.md)
+- Counterpart Language Document Path: [annexes/annex-e-third-party-channels-and-widget.id.md](./annex-e-third-party-channels-and-widget.id.md)
+- Parent Agreement Document Path: [terms-and-conditions.en.md](../terms-and-conditions.en.md#25-annex-e-third-party-channels-and-website-widget-schedule)
+- Table of Contents Document Path: [TOC.en.md](../TOC.en.md#25-annex-e-third-party-channels-and-website-widget-schedule)
 
 ### 25.1. WhatsApp Business Connection Requirements and Operational Terms
 
-25.1.1. Pursuant to [Article 10 of the Agreement (docs/platform-legal/terms-and-conditions.en.md)](../terms-and-conditions.en.md#10-article-10-third-party-channels-and-website-widget-integration), to connect an AI Agent to WhatsApp Business, the Customer must maintain an active Subscription Plan that includes WhatsApp support and supply valid credentials issued to the Customer (access token, phone number identifier, business account identifier, and webhook verification token).
+25.1.1. Pursuant to [Article 10 of the Agreement (terms-and-conditions.en.md)](../terms-and-conditions.en.md#10-article-10-third-party-channels-and-website-widget-integration), to connect an AI Agent to WhatsApp Business, the Customer must maintain an active Subscription Plan that includes WhatsApp support and supply valid credentials issued to the Customer (access token, phone number identifier, business account identifier, and webhook verification token).
 
 25.1.2. The Customer is solely responsible for configuring its webhook endpoint URL and verification token in its WhatsApp Business configuration, maintaining its account standing, and paying any messaging or conversation charges billed by the channel operator.
 

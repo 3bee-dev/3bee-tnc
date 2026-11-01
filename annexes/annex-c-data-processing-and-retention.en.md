@@ -1,13 +1,13 @@
-# 23. Annex C. Data Processing and Retention Schedule
+﻿# 23. Annex C. Data Processing and Retention Schedule
 
-- Document Path: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annex-c-data-processing-and-retention.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annex-c-data-processing-and-retention.id.md)
-- Parent Agreement Document Path: [docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#23-annex-c-data-processing-and-retention-schedule)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](../TOC.en.md#23-annex-c-data-processing-and-retention-schedule)
+- Document Path: [annexes/annex-c-data-processing-and-retention.en.md](./annex-c-data-processing-and-retention.en.md)
+- Counterpart Language Document Path: [annexes/annex-c-data-processing-and-retention.id.md](./annex-c-data-processing-and-retention.id.md)
+- Parent Agreement Document Path: [terms-and-conditions.en.md](../terms-and-conditions.en.md#23-annex-c-data-processing-and-retention-schedule)
+- Table of Contents Document Path: [TOC.en.md](../TOC.en.md#23-annex-c-data-processing-and-retention-schedule)
 
 ### 23.1. Categories of Data Subjects, Personal Data, and Processing Roles
 
-23.1.1. Data Processed as Data Processor (Customer as Data Controller pursuant to [Article 12 of docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling)):
+23.1.1. Data Processed as Data Processor (Customer as Data Controller pursuant to [Article 12 of terms-and-conditions.en.md](../terms-and-conditions.en.md#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling)):
 (a) Data Subjects: End Users (shoppers, website visitors, WhatsApp users, Telegram users) and individuals mentioned in Customer Content.
 (b) Categories of Personal Data: Conversational messages, contact snippets voluntarily provided in chat (name, phone number, address, or email up to three pinned lines of three hundred characters each), product search photos, Virtual Try-On user photos and room photos, WhatsApp telephone numbers and profile names, Telegram user identifiers and chat identifiers, and one-way cryptographic visitor hashes.
 (c) Processing Operations: Receiving, temporarily caching in session memory, evaluating against safety guardrails, passing to AI Models for response or image synthesis, delivering responses across the connected channel, and recording de-identified Visitor Analytics.

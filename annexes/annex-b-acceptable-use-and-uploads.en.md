@@ -1,13 +1,13 @@
-# 22. Annex B. Acceptable Use Policy and Document Upload Specifications
+﻿# 22. Annex B. Acceptable Use Policy and Document Upload Specifications
 
-- Document Path: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md](./annex-b-acceptable-use-and-uploads.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md](./annex-b-acceptable-use-and-uploads.id.md)
-- Parent Agreement Document Path: [docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#22-annex-b-acceptable-use-policy-and-document-upload-specifications)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](../TOC.en.md#22-annex-b-acceptable-use-policy-and-document-upload-specifications)
+- Document Path: [annexes/annex-b-acceptable-use-and-uploads.en.md](./annex-b-acceptable-use-and-uploads.en.md)
+- Counterpart Language Document Path: [annexes/annex-b-acceptable-use-and-uploads.id.md](./annex-b-acceptable-use-and-uploads.id.md)
+- Parent Agreement Document Path: [terms-and-conditions.en.md](../terms-and-conditions.en.md#22-annex-b-acceptable-use-policy-and-document-upload-specifications)
+- Table of Contents Document Path: [TOC.en.md](../TOC.en.md#22-annex-b-acceptable-use-policy-and-document-upload-specifications)
 
 ### 22.1. Prohibited Content and Unlawful Use Categories
 
-22.1.1. Pursuant to [Article 8 of the Agreement (docs/platform-legal/terms-and-conditions.en.md)](../terms-and-conditions.en.md#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct), the Customer shall not use any AI Agent, Hosted Web Storefront, Web Widget, WhatsApp connection, or Telegram connection to advertise, distribute, or process content relating to:
+22.1.1. Pursuant to [Article 8 of the Agreement (terms-and-conditions.en.md)](../terms-and-conditions.en.md#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct), the Customer shall not use any AI Agent, Hosted Web Storefront, Web Widget, WhatsApp connection, or Telegram connection to advertise, distribute, or process content relating to:
 (a) Illegal narcotics, psychotropic substances, precursor chemicals, or unapproved pharmaceuticals.
 (b) Online gambling, sports betting, lotteries, or unlicensed games of chance.
 (c) Pornography, sexually explicit services, non-consensual intimate imagery, or any form of child sexual exploitation or abuse.

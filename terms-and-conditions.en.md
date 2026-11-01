@@ -1,8 +1,8 @@
-# Terms and Conditions of Service (Service Agreement)
+﻿# Terms and Conditions of Service (Service Agreement)
 
-- Document Path: [docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](./TOC.en.md)
+- Document Path: [terms-and-conditions.en.md](./terms-and-conditions.en.md)
+- Counterpart Language Document Path: [terms-and-conditions.id.md](./terms-and-conditions.id.md)
+- Table of Contents Document Path: [TOC.en.md](./TOC.en.md)
 - Effective Date: [EFFECTIVE DATE]
 - Document Version: [DOCUMENT VERSION, e.g., 1.0]
 - Provider Legal Entity: [COMPANY LEGAL NAME]
@@ -11,18 +11,18 @@
 - Legal Notice Contact: [LEGAL NOTICE EMAIL]
 - Customer Support Contact: [SUPPORT EMAIL]
 - Attached Annexes Document Paths:
-  - Annex A: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
-  - Annex B: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
-  - Annex C: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
-  - Annex D: [docs/platform-legal/annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
-  - Annex E: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
-  - Annex F: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
+  - Annex A: [annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
+  - Annex B: [annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
+  - Annex C: [annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
+  - Annex D: [annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
+  - Annex E: [annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
+  - Annex F: [annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
 
 ## 1. Article 1. Definitions and Interpretation
 
 ### 1.1. Defined Terms
 
-1.1.1. Agreement means these Terms and Conditions of Service (Service Agreement) ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)), together with [Annex A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md), [Annex B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md), [Annex D (docs/platform-legal/annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md), [Annex E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md), and [Annex F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md), the applicable Quota Snapshot, and any order confirmation or invoice issued by the Provider.
+1.1.1. Agreement means these Terms and Conditions of Service (Service Agreement) ([terms-and-conditions.en.md](./terms-and-conditions.en.md)), together with [Annex A (annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md), [Annex B (annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md), [Annex D (annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md), [Annex E (annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md), and [Annex F (annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md), the applicable Quota Snapshot, and any order confirmation or invoice issued by the Provider.
 
 1.1.2. Provider means [COMPANY LEGAL NAME], a legal entity organized and existing under the laws of [INCORPORATION JURISDICTION, e.g., the Republic of Indonesia], having its registered office at [REGISTERED ADDRESS].
 
@@ -98,11 +98,11 @@
 
 ### 1.3. Structure of the Agreement and Order of Precedence
 
-1.3.1. This Agreement ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md), outlined in [docs/platform-legal/TOC.en.md](./TOC.en.md)) consists of [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) and [Annex A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md), each of which forms an integral and binding part of this Agreement.
+1.3.1. This Agreement ([terms-and-conditions.en.md](./terms-and-conditions.en.md), outlined in [TOC.en.md](./TOC.en.md)) consists of [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) and [Annex A (annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F (annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md), each of which forms an integral and binding part of this Agreement.
 
-1.3.2. In the event of any conflict or inconsistency between the components of this Agreement, the following order of precedence shall apply from highest to lowest: (a) the Customer's active Quota Snapshot and settled invoice for the current Billing Cycle, (b) [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) of this Agreement ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)), and (c) [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F](./annexes/annex-f-consumer-facing-terms.en.md).
+1.3.2. In the event of any conflict or inconsistency between the components of this Agreement, the following order of precedence shall apply from highest to lowest: (a) the Customer's active Quota Snapshot and settled invoice for the current Billing Cycle, (b) [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) of this Agreement ([terms-and-conditions.en.md](./terms-and-conditions.en.md)), and (c) [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F](./annexes/annex-f-consumer-facing-terms.en.md).
 
-1.3.3. [Annex F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md) sets forth consumer-facing terms applicable specifically to End Users interacting with a Customer's deployed AI Agent and does not reduce or replace the Customer's business-to-business obligations to the Provider under [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) and [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex E](./annexes/annex-e-third-party-channels-and-widget.en.md).
+1.3.3. [Annex F (annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md) sets forth consumer-facing terms applicable specifically to End Users interacting with a Customer's deployed AI Agent and does not reduce or replace the Customer's business-to-business obligations to the Provider under [Articles 1](#1-article-1-definitions-and-interpretation) through [20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions) and [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex E](./annexes/annex-e-third-party-channels-and-widget.en.md).
 
 ## 2. Article 2. Scope of Agreement, Business Customer Status, and Electronic Acceptance
 
@@ -118,7 +118,7 @@
 
 2.2.2. By registering an account and submitting a business name, the Customer represents and warrants that it is acquiring and using the Platform wholly or predominantly for commercial, business, or professional purposes and not as a retail consumer.
 
-2.2.3. Separate consumer-facing terms governing End Users and shoppers who interact with the Customer's deployed AI Agents are set out in [Annex F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md). The Customer shall not represent to any End User that the Provider is the seller, merchant of record, or contracting party for any goods or services offered by the Customer.
+2.2.3. Separate consumer-facing terms governing End Users and shoppers who interact with the Customer's deployed AI Agents are set out in [Annex F (annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md). The Customer shall not represent to any End User that the Provider is the seller, merchant of record, or contracting party for any goods or services offered by the Customer.
 
 ### 2.3. Electronic Acceptance and Binding Effect
 
@@ -216,7 +216,7 @@
 
 ### 5.1. Subscription Plans, Billing Cycles, and Period Snapshots
 
-5.1.1. Subscription Plans are offered on a Monthly or Annual Billing Cycle as published in the Platform catalog and detailed in [Annex A (docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md).
+5.1.1. Subscription Plans are offered on a Monthly or Annual Billing Cycle as published in the Platform catalog and detailed in [Annex A (annexes/annex-a-subscription-plans-quotas-credits.en.md)](./annexes/annex-a-subscription-plans-quotas-credits.en.md).
 
 5.1.2. Upon activation or renewal of a Billing Cycle, the Platform records a frozen Quota Snapshot and locks the Customer's paid subscription fee and Billing Cycle for that period.
 
@@ -354,7 +354,7 @@
 
 ### 8.2. Prohibited Content, Products, and Commercial Activities
 
-8.2.1. The Customer shall not use the Platform or any AI Agent to store, promote, facilitate, or transact any goods, services, or content that violate applicable law or the Acceptable Use Policy in [Annex B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), including: (a) narcotics, illegal drugs, or contraband, (b) unlawful gambling, wagering, or pyramid schemes, (c) pornography, non-consensual sexual content, or child sexual exploitation material, (d) counterfeit goods or materials infringing third-party Intellectual Property rights, (e) fraud, phishing, financial scams, or deceptive impersonation, or (f) terrorism, violence, hate speech, or unlawful weapons trafficking.
+8.2.1. The Customer shall not use the Platform or any AI Agent to store, promote, facilitate, or transact any goods, services, or content that violate applicable law or the Acceptable Use Policy in [Annex B (annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), including: (a) narcotics, illegal drugs, or contraband, (b) unlawful gambling, wagering, or pyramid schemes, (c) pornography, non-consensual sexual content, or child sexual exploitation material, (d) counterfeit goods or materials infringing third-party Intellectual Property rights, (e) fraud, phishing, financial scams, or deceptive impersonation, or (f) terrorism, violence, hate speech, or unlawful weapons trafficking.
 
 ### 8.3. Prohibition on Prompt Injection, Guardrail Bypass, and Technical Abuse
 
@@ -362,7 +362,7 @@
 
 ### 8.4. Document Upload Validation and File Security Restrictions
 
-8.4.1. All files uploaded by the Customer to the Knowledge Base or AI-assisted catalog extractor must comply strictly with the file extension, byte size, page count, archive structure, and security validation rules set out in [Annex B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md).
+8.4.1. All files uploaded by the Customer to the Knowledge Base or AI-assisted catalog extractor must comply strictly with the file extension, byte size, page count, archive structure, and security validation rules set out in [Annex B (annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md).
 
 8.4.2. The Customer shall not upload encrypted or password-protected documents, documents containing embedded executable files or active macros, decompression bombs, malformed markup, or files containing malicious payloads. The Platform automatically rejects non-compliant uploads.
 
@@ -410,7 +410,7 @@
 
 ### 10.1. Connection of WhatsApp and Telegram Channels Using Customer Credentials
 
-10.1.1. Where the Customer's Subscription Plan includes WhatsApp or Telegram integration as detailed in [Annex E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md), the Customer may connect its AI Agent to WhatsApp Business or Telegram by supplying the Customer's own official channel credentials (specifically, for WhatsApp: access token, phone number identifier, business account identifier, and webhook verification token; for Telegram: bot token).
+10.1.1. Where the Customer's Subscription Plan includes WhatsApp or Telegram integration as detailed in [Annex E (annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md), the Customer may connect its AI Agent to WhatsApp Business or Telegram by supplying the Customer's own official channel credentials (specifically, for WhatsApp: access token, phone number identifier, business account identifier, and webhook verification token; for Telegram: bot token).
 
 10.1.2. The Customer represents and warrants that it is the lawful holder of the WhatsApp Business account or Telegram bot account connected to the Platform and has obtained all necessary permissions and End-User opt-ins required to send and receive automated messages over those channels.
 
@@ -428,7 +428,7 @@
 
 ### 10.4. Embeddable Web Widget Configuration and Authorized Domain Origins
 
-10.4.1. The Customer may embed the Web Widget on its external websites by enabling the Web Widget in the Main Dashboard and registering up to ten (10) authorized website origins in accordance with [Annex E (docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md).
+10.4.1. The Customer may embed the Web Widget on its external websites by enabling the Web Widget in the Main Dashboard and registering up to ten (10) authorized website origins in accordance with [Annex E (annexes/annex-e-third-party-channels-and-widget.en.md)](./annexes/annex-e-third-party-channels-and-widget.en.md).
 
 10.4.2. For security enforcement via browser frame-ancestors policies, every registered Web Widget origin must use the encrypted HTTPS scheme and a valid public domain hostname, and must not contain wildcard characters, raw IPv4 or IPv6 addresses, URL paths, query strings, or local loopback hostnames.
 
@@ -480,7 +480,7 @@
 
 ### 12.3. Data Retention Periods, Automated Deletion, and Audit Snapshot Masking
 
-12.3.1. The Platform enforces automated data retention and deletion schedules strictly in accordance with [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md):
+12.3.1. The Platform enforces automated data retention and deletion schedules strictly in accordance with [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md):
 (a) Registration one-time passwords expire after five (5) minutes (300 seconds) and uncompleted registration sessions expire after fifteen (15) minutes (900 seconds).
 (b) Authentication access tokens expire after fifteen (15) minutes (900 seconds), refresh tokens expire after seven (7) days (604,800 seconds), trusted login device tokens expire after thirty (30) days, and failed-login rate-limit counters expire after fifteen (15) minutes.
 (c) Real-time deployment log streams expire after two (2) hours.
@@ -492,7 +492,7 @@
 
 ### 12.4. Categories of Authorised Sub-Processors
 
-12.4.1. The Customer grants general written authorization for the Provider to engage Sub-Processors within the following functional categories as detailed in [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md): (a) cloud compute hosting, managed database, cache, and vector-index providers, (b) content delivery, domain routing, bot-verification, and cloud object storage providers, (c) third-party artificial intelligence, natural language processing, computer vision, and image-generation model providers, (d) licensed payment gateway and payment processing providers, (e) transactional email delivery providers, and (f) third-party single sign-on identity providers.
+12.4.1. The Customer grants general written authorization for the Provider to engage Sub-Processors within the following functional categories as detailed in [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md): (a) cloud compute hosting, managed database, cache, and vector-index providers, (b) content delivery, domain routing, bot-verification, and cloud object storage providers, (c) third-party artificial intelligence, natural language processing, computer vision, and image-generation model providers, (d) licensed payment gateway and payment processing providers, (e) transactional email delivery providers, and (f) third-party single sign-on identity providers.
 
 12.4.2. In addition, where the Customer connects WhatsApp or Telegram to an AI Agent, messages and media exchanged with End Users on those channels are transmitted through WhatsApp and Telegram in accordance with the Customer's configuration.
 
@@ -500,7 +500,7 @@
 
 12.5.1. The Customer acknowledges and agrees that because the Provider's cloud infrastructure, object storage, and third-party artificial intelligence model Sub-Processors operate on globally distributed infrastructure, Customer Content and End-User inputs (including chat prompts and Virtual Try-On images) may be transmitted to, stored in, and processed in jurisdictions outside the territory of the Republic of Indonesia.
 
-12.5.2. By using the Platform, the Customer consents to such cross-border transfers and warrants that it has secured any required notices or consents from its End Users in accordance with applicable data protection law, including Article 56 of Law No. 27 of 2022 of the Republic of Indonesia on Personal Data Protection. [LAWYER DECISION: Confirm whether standard data transfer clauses or specific destination-country disclosures should be appended to [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md) under implementing regulations of Law No. 27 of 2022.]
+12.5.2. By using the Platform, the Customer consents to such cross-border transfers and warrants that it has secured any required notices or consents from its End Users in accordance with applicable data protection law, including Article 56 of Law No. 27 of 2022 of the Republic of Indonesia on Personal Data Protection. [LAWYER DECISION: Confirm whether standard data transfer clauses or specific destination-country disclosures should be appended to [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md) under implementing regulations of Law No. 27 of 2022.]
 
 ### 12.6. Technical Security Measures, Compliance Posture, and Data Incident Handling
 
@@ -526,13 +526,13 @@
 
 13.3.1. If the Receiving Party is required by applicable law, regulator, or court order to disclose Confidential Information of the Disclosing Party, it may do so provided that it gives prior written notice to the Disclosing Party (to the extent legally permitted) and limits disclosure to the minimum required.
 
-13.3.2. Upon termination of this Agreement and expiration of the applicable data Retention Window and statutory record-keeping periods in [Article 12](#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling) and [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md), Confidential Information stored in the Customer's AI Agent databases is automatically purged in accordance with [Article 7](#7-article-7-overdue-payments-grace-period-suspension-cancellation-and-data-retention).
+13.3.2. Upon termination of this Agreement and expiration of the applicable data Retention Window and statutory record-keeping periods in [Article 12](#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling) and [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md), Confidential Information stored in the Customer's AI Agent databases is automatically purged in accordance with [Article 7](#7-article-7-overdue-payments-grace-period-suspension-cancellation-and-data-retention).
 
 ## 14. Article 14. Service Availability, Maintenance, Updates, and Customer Support
 
 ### 14.1. Target Service Availability and Scheduled Maintenance
 
-14.1.1. The Provider uses commercially reasonable efforts to make the Platform available in accordance with the target monthly uptime of [UPTIME TARGET, e.g., 99.0%] set forth in [Annex D (docs/platform-legal/annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md), excluding Scheduled Maintenance and the exclusions listed in [Annex D](./annexes/annex-d-service-level-and-support.en.md).
+14.1.1. The Provider uses commercially reasonable efforts to make the Platform available in accordance with the target monthly uptime of [UPTIME TARGET, e.g., 99.0%] set forth in [Annex D (annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md), excluding Scheduled Maintenance and the exclusions listed in [Annex D](./annexes/annex-d-service-level-and-support.en.md).
 
 14.1.2. The Provider may perform Scheduled Maintenance by providing at least [MAINTENANCE NOTICE HOURS, e.g., twenty-four (24) hours] prior notice via the Main Dashboard or email.
 
@@ -544,7 +544,7 @@
 
 ### 14.3. Customer Support Channels, Operating Hours, and Response Targets
 
-14.3.1. The Provider provides customer support through the official support channels, operating hours, and target response times specified in [Annex D (docs/platform-legal/annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md) ([SUPPORT EMAIL], [SUPPORT WHATSAPP NUMBER], and [SUPPORT TELEGRAM HANDLE]).
+14.3.1. The Provider provides customer support through the official support channels, operating hours, and target response times specified in [Annex D (annexes/annex-d-service-level-and-support.en.md)](./annexes/annex-d-service-level-and-support.en.md) ([SUPPORT EMAIL], [SUPPORT WHATSAPP NUMBER], and [SUPPORT TELEGRAM HANDLE]).
 
 ## 15. Article 15. Warranties and Disclaimers
 
@@ -566,7 +566,7 @@
 
 ### 16.1. Customer Indemnification Obligations
 
-16.1.1. The Customer shall defend, indemnify, and hold harmless the Provider, its affiliates, directors, officers, and employees from and against any third-party claim, demand, regulatory action, loss, damage, penalty, and reasonable legal fee arising out of or relating to: (a) the Customer Content or any product or service advertised or sold by the Customer, (b) any dispute, breach of contract, or consumer claim between the Customer and any End User, (c) the Customer's breach of [Article 8 (Acceptable Use)](#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct) or [Annex B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), (d) the Customer's violation of WhatsApp or Telegram terms or applicable data protection laws in its capacity as Data Controller, or (e) infringement of a third party's Intellectual Property or privacy rights by Customer Content or Customer brand assets.
+16.1.1. The Customer shall defend, indemnify, and hold harmless the Provider, its affiliates, directors, officers, and employees from and against any third-party claim, demand, regulatory action, loss, damage, penalty, and reasonable legal fee arising out of or relating to: (a) the Customer Content or any product or service advertised or sold by the Customer, (b) any dispute, breach of contract, or consumer claim between the Customer and any End User, (c) the Customer's breach of [Article 8 (Acceptable Use)](#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct) or [Annex B (annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), (d) the Customer's violation of WhatsApp or Telegram terms or applicable data protection laws in its capacity as Data Controller, or (e) infringement of a third party's Intellectual Property or privacy rights by Customer Content or Customer brand assets.
 
 ### 16.2. Provider Indemnification Obligations
 
@@ -610,7 +610,7 @@
 
 ### 18.2. Administrative Suspension or Account Ban for Cause
 
-18.2.1. Without prejudice to Billing Suspension under [Article 7](#7-article-7-overdue-payments-grace-period-suspension-cancellation-and-data-retention), the Provider may immediately suspend a specific AI Agent or suspend or ban the Customer's Main Dashboard account if the Provider reasonably determines that: (a) the Customer or its AI Agent is violating [Article 8 (Acceptable Use)](#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct) or [Annex B (docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), (b) the Customer's account is compromised or being used for fraudulent activity, (c) continued operation of the AI Agent poses an immediate security, legal, or operational threat to the Platform or third parties, or (d) suspension is required by a court, regulator, or law enforcement authority.
+18.2.1. Without prejudice to Billing Suspension under [Article 7](#7-article-7-overdue-payments-grace-period-suspension-cancellation-and-data-retention), the Provider may immediately suspend a specific AI Agent or suspend or ban the Customer's Main Dashboard account if the Provider reasonably determines that: (a) the Customer or its AI Agent is violating [Article 8 (Acceptable Use)](#8-article-8-customer-obligations-acceptable-use-and-prohibited-conduct) or [Annex B (annexes/annex-b-acceptable-use-and-uploads.en.md)](./annexes/annex-b-acceptable-use-and-uploads.en.md), (b) the Customer's account is compromised or being used for fraudulent activity, (c) continued operation of the AI Agent poses an immediate security, legal, or operational threat to the Platform or third parties, or (d) suspension is required by a court, regulator, or law enforcement authority.
 
 18.2.2. When the Provider executes an administrative suspension or ban, the Platform records the administrative action, timestamp, and stated reason in its system audit log and revokes active session tokens for the affected account. Where practicable and lawful, the Provider will notify the Customer of the reason for the administrative suspension and provide an opportunity to cure the violation if curable.
 
@@ -628,7 +628,7 @@
 
 18.4.3. [LAWYER DECISION: Confirm whether the Parties expressly waive the provisions of Article 1266 of the Indonesian Civil Code (Kitab Undang-Undang Hukum Perdata) to the extent that a prior judicial pronouncement would otherwise be required to effect the suspension or termination of this Agreement in accordance with its terms.]
 
-18.4.4. The following provisions survive any expiration or termination of this Agreement: [Article 1](#1-article-1-definitions-and-interpretation), [Section 2.2](#22-business-to-business-scope-and-separation-of-consumer-terms), [Section 7.5](#75-permanent-deletion-of-ai-agent-data-and-preserved-account-records), [Article 9](#9-article-9-artificial-intelligence-outputs-virtual-try-on-and-verification-obligations), [Article 11](#11-article-11-intellectual-property-rights-customer-content-and-feedback), [Article 12](#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling) (for as long as data is retained under [Annex C at docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)), [Article 13](#13-article-13-confidentiality), [Article 15](#15-article-15-warranties-and-disclaimers), [Article 16](#16-article-16-indemnification), [Article 17](#17-article-17-limitation-of-liability), [Section 18.4](#184-consequences-of-termination-statutory-waiver-inquiry-and-surviving-clauses), [Article 19](#19-article-19-evidentiary-value-system-records-audit-logs-and-electronic-signatures), [Article 20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions), and [Annex F (docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md).
+18.4.4. The following provisions survive any expiration or termination of this Agreement: [Article 1](#1-article-1-definitions-and-interpretation), [Section 2.2](#22-business-to-business-scope-and-separation-of-consumer-terms), [Section 7.5](#75-permanent-deletion-of-ai-agent-data-and-preserved-account-records), [Article 9](#9-article-9-artificial-intelligence-outputs-virtual-try-on-and-verification-obligations), [Article 11](#11-article-11-intellectual-property-rights-customer-content-and-feedback), [Article 12](#12-article-12-data-roles-processing-purposes-retention-sub-processors-cross-border-transfers-and-incident-handling) (for as long as data is retained under [Annex C at annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)), [Article 13](#13-article-13-confidentiality), [Article 15](#15-article-15-warranties-and-disclaimers), [Article 16](#16-article-16-indemnification), [Article 17](#17-article-17-limitation-of-liability), [Section 18.4](#184-consequences-of-termination-statutory-waiver-inquiry-and-surviving-clauses), [Article 19](#19-article-19-evidentiary-value-system-records-audit-logs-and-electronic-signatures), [Article 20](#20-article-20-governing-law-dispute-resolution-language-amendments-and-general-provisions), and [Annex F (annexes/annex-f-consumer-facing-terms.en.md)](./annexes/annex-f-consumer-facing-terms.en.md).
 
 ## 19. Article 19. Evidentiary Value, System Records, Audit Logs, and Electronic Signatures
 
@@ -660,7 +660,7 @@
 
 ### 20.3. Dual-Language Execution and Prevailing Language
 
-20.3.1. This Agreement is prepared and made available in both the Indonesian language ([docs/platform-legal/terms-and-conditions.id.md](./terms-and-conditions.id.md)) and the English language ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md)). Both language versions share an identical article structure and clause numbering.
+20.3.1. This Agreement is prepared and made available in both the Indonesian language ([terms-and-conditions.id.md](./terms-and-conditions.id.md)) and the English language ([terms-and-conditions.en.md](./terms-and-conditions.en.md)). Both language versions share an identical article structure and clause numbering.
 
 20.3.2. In the event of any inconsistency, divergence, or difference of interpretation between the Indonesian version and the English version of this Agreement, the [PREVAILING LANGUAGE, e.g., Indonesian] language version shall prevail. [LAWYER DECISION: Confirm under Law No. 24 of 2009 of the Republic of Indonesia on the Flag, Language, State Emblem, and National Anthem and Presidential Regulation No. 63 of 2019 whether the Indonesian version must prevail for all Indonesian Customers and whether the English version may be designated as prevailing for non-Indonesian Customers.]
 
@@ -678,11 +678,11 @@
 
 20.5.3. No failure or delay by either Party in exercising any right or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy preclude any other or further exercise thereof.
 
-20.5.4. This Agreement ([docs/platform-legal/terms-and-conditions.en.md](./terms-and-conditions.en.md), including [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F](./annexes/annex-f-consumer-facing-terms.en.md) and the applicable Quota Snapshot) constitutes the entire agreement between the Parties relating to its subject matter and supersedes all prior oral or written proposals, representations, or understandings between the Parties.
+20.5.4. This Agreement ([terms-and-conditions.en.md](./terms-and-conditions.en.md), including [Annex A](./annexes/annex-a-subscription-plans-quotas-credits.en.md) through [Annex F](./annexes/annex-f-consumer-facing-terms.en.md) and the applicable Quota Snapshot) constitutes the entire agreement between the Parties relating to its subject matter and supersedes all prior oral or written proposals, representations, or understandings between the Parties.
 
 ## 21. Annex A. Subscription Plans, Quotas, AI Models, and Credit System Schedule
 
-Annex Document Path: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
+Annex Document Path: [annexes/annex-a-subscription-plans-quotas-credits.en.md](./annexes/annex-a-subscription-plans-quotas-credits.en.md)
 
 ### 21.1. Subscription Plan Parameters and Frozen Period Snapshots
 
@@ -716,7 +716,7 @@ Annex Document Path: [docs/platform-legal/annexes/annex-a-subscription-plans-quo
 
 ## 22. Annex B. Acceptable Use Policy and Document Upload Specifications
 
-Annex Document Path: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
+Annex Document Path: [annexes/annex-b-acceptable-use-and-uploads.en.md](./annexes/annex-b-acceptable-use-and-uploads.en.md)
 
 ### 22.1. Prohibited Content and Unlawful Use Categories
 
@@ -750,7 +750,7 @@ Annex Document Path: [docs/platform-legal/annexes/annex-b-acceptable-use-and-upl
 
 ## 23. Annex C. Data Processing and Retention Schedule
 
-Annex Document Path: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
+Annex Document Path: [annexes/annex-c-data-processing-and-retention.en.md](./annexes/annex-c-data-processing-and-retention.en.md)
 
 ### 23.1. Categories of Data Subjects, Personal Data, and Processing Roles
 
@@ -795,7 +795,7 @@ Annex Document Path: [docs/platform-legal/annexes/annex-c-data-processing-and-re
 
 ## 24. Annex D. Service Level, Maintenance, and Support Schedule
 
-Annex Document Path: [docs/platform-legal/annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
+Annex Document Path: [annexes/annex-d-service-level-and-support.en.md](./annexes/annex-d-service-level-and-support.en.md)
 
 ### 24.1. Service Availability Target and Exclusions
 
@@ -829,7 +829,7 @@ Annex Document Path: [docs/platform-legal/annexes/annex-d-service-level-and-supp
 
 ## 25. Annex E. Third-Party Channels and Website Widget Schedule
 
-Annex Document Path: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
+Annex Document Path: [annexes/annex-e-third-party-channels-and-widget.en.md](./annexes/annex-e-third-party-channels-and-widget.en.md)
 
 ### 25.1. WhatsApp Business Connection Requirements and Operational Terms
 
@@ -854,15 +854,15 @@ Annex Document Path: [docs/platform-legal/annexes/annex-e-third-party-channels-a
 
 ## 26. Annex F. Consumer-Facing Terms for End Users and Shoppers
 
-Annex Document Path: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
+Annex Document Path: [annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)
 
 ### 26.1. Applicability, Role of the Merchant Customer, and Role of the Platform
 
-26.1.1. These Consumer-Facing Terms ([Annex F, located at docs/platform-legal/annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)) apply to every End User, shopper, or visitor who interacts with an AI Agent, Hosted Web Storefront, Web Widget, WhatsApp account, or Telegram bot powered by the 3Bee Platform.
+26.1.1. These Consumer-Facing Terms ([Annex F, located at annexes/annex-f-consumer-facing-terms.en.md](./annexes/annex-f-consumer-facing-terms.en.md)) apply to every End User, shopper, or visitor who interacts with an AI Agent, Hosted Web Storefront, Web Widget, WhatsApp account, or Telegram bot powered by the 3Bee Platform.
 
 26.1.2. The store, brand, products, and services presented by the AI Agent are owned, operated, and sold independently by the respective merchant business (Merchant) named on the storefront or messaging channel.
 
-26.1.3. [COMPANY LEGAL NAME] (3Bee) is solely the technology provider supplying the software infrastructure for the AI Agent under the [Service Agreement (docs/platform-legal/terms-and-conditions.en.md)](./terms-and-conditions.en.md). 3Bee does not own, manufacture, stock, price, sell, ship, or warrant any product or service offered by the Merchant, and 3Bee is not a party to any purchase, booking, or payment transaction between the End User and the Merchant.
+26.1.3. [COMPANY LEGAL NAME] (3Bee) is solely the technology provider supplying the software infrastructure for the AI Agent under the [Service Agreement (terms-and-conditions.en.md)](./terms-and-conditions.en.md). 3Bee does not own, manufacture, stock, price, sell, ship, or warrant any product or service offered by the Merchant, and 3Bee is not a party to any purchase, booking, or payment transaction between the End User and the Merchant.
 
 ### 26.2. Automated AI Responses, Product Information, and Verification by End Users
 
@@ -882,7 +882,7 @@ Annex Document Path: [docs/platform-legal/annexes/annex-f-consumer-facing-terms.
 
 ### 26.4. End-User Session Storage, Data Retention, and Privacy Rights
 
-26.4.1. For the purpose of maintaining conversation continuity during a shopping session, the AI Agent retains the End User's chat history, session state, and any contact details voluntarily shared in chat for twenty-four (24) hours (86,400 seconds) from the End User's last message, and stores a local copy in the End User's web browser storage for up to twenty-four (24) hours (which the End User may clear at any time using the reset chat button or browser settings), as detailed in [Annex C (docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md).
+26.4.1. For the purpose of maintaining conversation continuity during a shopping session, the AI Agent retains the End User's chat history, session state, and any contact details voluntarily shared in chat for twenty-four (24) hours (86,400 seconds) from the End User's last message, and stores a local copy in the End User's web browser storage for up to twenty-four (24) hours (which the End User may clear at any time using the reset chat button or browser settings), as detailed in [Annex C (annexes/annex-c-data-processing-and-retention.en.md)](./annexes/annex-c-data-processing-and-retention.en.md).
 
 26.4.2. To help the Merchant understand visitor engagement and improve its store responses, the Platform records de-identified Visitor Analytics (such as session duration, message counts, general device/browser category, and unanswered product topics) keyed by a one-way cryptographic visitor hash for ninety (90) days.
 

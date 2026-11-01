@@ -1,9 +1,9 @@
-# 21. Lampiran A. Jadwal Paket Langganan, Kuota, Model AI, dan Sistem Kredit
+﻿# 21. Lampiran A. Jadwal Paket Langganan, Kuota, Model AI, dan Sistem Kredit
 
-- Path Dokumen: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md](./annex-a-subscription-plans-quotas-credits.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md](./annex-a-subscription-plans-quotas-credits.en.md)
-- Path Dokumen Perjanjian Induk: [docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#21-lampiran-a-jadwal-paket-langganan-kuota-model-ai-dan-sistem-kredit)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](../TOC.id.md#21-lampiran-a-jadwal-paket-langganan-kuota-model-ai-dan-sistem-kredit)
+- Path Dokumen: [annexes/annex-a-subscription-plans-quotas-credits.id.md](./annex-a-subscription-plans-quotas-credits.id.md)
+- Path Dokumen Bahasa Pendamping: [annexes/annex-a-subscription-plans-quotas-credits.en.md](./annex-a-subscription-plans-quotas-credits.en.md)
+- Path Dokumen Perjanjian Induk: [terms-and-conditions.id.md](../terms-and-conditions.id.md#21-lampiran-a-jadwal-paket-langganan-kuota-model-ai-dan-sistem-kredit)
+- Path Dokumen Daftar Isi: [TOC.id.md](../TOC.id.md#21-lampiran-a-jadwal-paket-langganan-kuota-model-ai-dan-sistem-kredit)
 
 ### 21.1. Parameter Paket Langganan dan Cuplikan Periode yang Dibekukan
 
@@ -16,7 +16,7 @@
 (f) Model AI yang Memenuhi Syarat: Daftar Model AI yang dapat dipilih oleh Pelanggan beserta Pengali Kuota yang ditetapkan untuk masing-masing model.
 (g) Hak Kanal: Apakah integrasi WhatsApp Business dan integrasi bot Telegram diaktifkan untuk paket tersebut.
 
-21.1.2. Seluruh parameter yang tercantum dalam Pasal 21.1.1, beserta harga langganan Pelanggan yang telah lunas dan Siklus Penagihan (bulanan atau tahunan), direkam ke dalam Cuplikan Kuota yang dibekukan pada awal setiap Siklus Penagihan sesuai dengan [Pasal 5 Perjanjian (docs/platform-legal/terms-and-conditions.id.md)](../terms-and-conditions.id.md#5-pasal-5-paket-langganan-kuota-model-ai-dan-sistem-kredit).
+21.1.2. Seluruh parameter yang tercantum dalam Pasal 21.1.1, beserta harga langganan Pelanggan yang telah lunas dan Siklus Penagihan (bulanan atau tahunan), direkam ke dalam Cuplikan Kuota yang dibekukan pada awal setiap Siklus Penagihan sesuai dengan [Pasal 5 Perjanjian (terms-and-conditions.id.md)](../terms-and-conditions.id.md#5-pasal-5-paket-langganan-kuota-model-ai-dan-sistem-kredit).
 
 ### 21.2. Pengali Model AI, Tarif Kredit Bawaan, dan Aturan Konsumsi
 

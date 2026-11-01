@@ -1,13 +1,13 @@
-# 22. Lampiran B. Kebijakan Penggunaan yang Dapat Diterima dan Spesifikasi Unggahan Dokumen
+﻿# 22. Lampiran B. Kebijakan Penggunaan yang Dapat Diterima dan Spesifikasi Unggahan Dokumen
 
-- Path Dokumen: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.id.md](./annex-b-acceptable-use-and-uploads.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/annexes/annex-b-acceptable-use-and-uploads.en.md](./annex-b-acceptable-use-and-uploads.en.md)
-- Path Dokumen Perjanjian Induk: [docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#22-lampiran-b-kebijakan-penggunaan-yang-dapat-diterima-dan-spesifikasi-unggahan-dokumen)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](../TOC.id.md#22-lampiran-b-kebijakan-penggunaan-yang-dapat-diterima-dan-spesifikasi-unggahan-dokumen)
+- Path Dokumen: [annexes/annex-b-acceptable-use-and-uploads.id.md](./annex-b-acceptable-use-and-uploads.id.md)
+- Path Dokumen Bahasa Pendamping: [annexes/annex-b-acceptable-use-and-uploads.en.md](./annex-b-acceptable-use-and-uploads.en.md)
+- Path Dokumen Perjanjian Induk: [terms-and-conditions.id.md](../terms-and-conditions.id.md#22-lampiran-b-kebijakan-penggunaan-yang-dapat-diterima-dan-spesifikasi-unggahan-dokumen)
+- Path Dokumen Daftar Isi: [TOC.id.md](../TOC.id.md#22-lampiran-b-kebijakan-penggunaan-yang-dapat-diterima-dan-spesifikasi-unggahan-dokumen)
 
 ### 22.1. Kategori Konten Terlarang dan Penggunaan Melawan Hukum
 
-22.1.1. Sesuai dengan [Pasal 8 Perjanjian (docs/platform-legal/terms-and-conditions.id.md)](../terms-and-conditions.id.md#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang), Pelanggan dilarang menggunakan Agen AI, Etalase Web Terkelola, Widget Situs Web, sambungan WhatsApp, atau sambungan Telegram mana pun untuk mengiklankan, mendistribusikan, atau memproses konten yang berkaitan dengan:
+22.1.1. Sesuai dengan [Pasal 8 Perjanjian (terms-and-conditions.id.md)](../terms-and-conditions.id.md#8-pasal-8-kewajiban-pelanggan-penggunaan-yang-dapat-diterima-dan-tindakan-terlarang), Pelanggan dilarang menggunakan Agen AI, Etalase Web Terkelola, Widget Situs Web, sambungan WhatsApp, atau sambungan Telegram mana pun untuk mengiklankan, mendistribusikan, atau memproses konten yang berkaitan dengan:
 (a) Narkotika ilegal, psikotropika, bahan kimia prekursor, atau sediaan farmasi tanpa izin edar.
 (b) Perjudian daring, taruhan olahraga, lotre, atau permainan untung-untungan tanpa izin.
 (c) Pornografi, layanan eksplisit secara seksual, citra intim non-konsensual, atau segala bentuk eksploitasi maupun kekerasan seksual terhadap anak.

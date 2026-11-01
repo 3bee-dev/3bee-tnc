@@ -1,9 +1,9 @@
-# 21. Annex A. Subscription Plans, Quotas, AI Models, and Credit System Schedule
+﻿# 21. Annex A. Subscription Plans, Quotas, AI Models, and Credit System Schedule
 
-- Document Path: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.en.md](./annex-a-subscription-plans-quotas-credits.en.md)
-- Counterpart Language Document Path: [docs/platform-legal/annexes/annex-a-subscription-plans-quotas-credits.id.md](./annex-a-subscription-plans-quotas-credits.id.md)
-- Parent Agreement Document Path: [docs/platform-legal/terms-and-conditions.en.md](../terms-and-conditions.en.md#21-annex-a-subscription-plans-quotas-ai-models-and-credit-system-schedule)
-- Table of Contents Document Path: [docs/platform-legal/TOC.en.md](../TOC.en.md#21-annex-a-subscription-plans-quotas-ai-models-and-credit-system-schedule)
+- Document Path: [annexes/annex-a-subscription-plans-quotas-credits.en.md](./annex-a-subscription-plans-quotas-credits.en.md)
+- Counterpart Language Document Path: [annexes/annex-a-subscription-plans-quotas-credits.id.md](./annex-a-subscription-plans-quotas-credits.id.md)
+- Parent Agreement Document Path: [terms-and-conditions.en.md](../terms-and-conditions.en.md#21-annex-a-subscription-plans-quotas-ai-models-and-credit-system-schedule)
+- Table of Contents Document Path: [TOC.en.md](../TOC.en.md#21-annex-a-subscription-plans-quotas-ai-models-and-credit-system-schedule)
 
 ### 21.1. Subscription Plan Parameters and Frozen Period Snapshots
 
@@ -16,7 +16,7 @@
 (f) Eligible AI Models: The list of AI Models selectable by the Customer and each model's assigned Quota Multiplier.
 (g) Channel Entitlements: Whether WhatsApp Business integration and Telegram bot integration are enabled for the plan.
 
-21.1.2. All parameters listed in Section 21.1.1, together with the Customer's settled subscription price and Billing Cycle (monthly or annual), are captured into a frozen Quota Snapshot at the start of each Billing Cycle in accordance with [Article 5 of the Agreement (docs/platform-legal/terms-and-conditions.en.md)](../terms-and-conditions.en.md#5-article-5-subscription-plans-quotas-ai-models-and-credit-system).
+21.1.2. All parameters listed in Section 21.1.1, together with the Customer's settled subscription price and Billing Cycle (monthly or annual), are captured into a frozen Quota Snapshot at the start of each Billing Cycle in accordance with [Article 5 of the Agreement (terms-and-conditions.en.md)](../terms-and-conditions.en.md#5-article-5-subscription-plans-quotas-ai-models-and-credit-system).
 
 ### 21.2. AI Model Multipliers, Default Credit Tariffs, and Consumption Rules
 

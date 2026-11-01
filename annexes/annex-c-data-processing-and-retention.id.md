@@ -1,13 +1,13 @@
-# 23. Lampiran C. Jadwal Pemrosesan dan Penyimpanan Data
+﻿# 23. Lampiran C. Jadwal Pemrosesan dan Penyimpanan Data
 
-- Path Dokumen: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.id.md](./annex-c-data-processing-and-retention.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/annexes/annex-c-data-processing-and-retention.en.md](./annex-c-data-processing-and-retention.en.md)
-- Path Dokumen Perjanjian Induk: [docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#23-lampiran-c-jadwal-pemrosesan-dan-penyimpanan-data)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](../TOC.id.md#23-lampiran-c-jadwal-pemrosesan-dan-penyimpanan-data)
+- Path Dokumen: [annexes/annex-c-data-processing-and-retention.id.md](./annex-c-data-processing-and-retention.id.md)
+- Path Dokumen Bahasa Pendamping: [annexes/annex-c-data-processing-and-retention.en.md](./annex-c-data-processing-and-retention.en.md)
+- Path Dokumen Perjanjian Induk: [terms-and-conditions.id.md](../terms-and-conditions.id.md#23-lampiran-c-jadwal-pemrosesan-dan-penyimpanan-data)
+- Path Dokumen Daftar Isi: [TOC.id.md](../TOC.id.md#23-lampiran-c-jadwal-pemrosesan-dan-penyimpanan-data)
 
 ### 23.1. Kategori Subjek Data, Data Pribadi, dan Peran Pemrosesan
 
-23.1.1. Data yang Diproses sebagai Pemroses Data (Pelanggan sebagai Pengendali Data sesuai dengan [Pasal 12 pada docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden)):
+23.1.1. Data yang Diproses sebagai Pemroses Data (Pelanggan sebagai Pengendali Data sesuai dengan [Pasal 12 pada terms-and-conditions.id.md](../terms-and-conditions.id.md#12-pasal-12-peran-data-tujuan-pemrosesan-penyimpanan-sub-pemroses-transfer-lintas-batas-dan-penanganan-insiden)):
 (a) Subjek Data: Pengguna Akhir (pembeli, pengunjung situs web, pengguna WhatsApp, pengguna Telegram) dan orang perseorangan yang disebutkan dalam Konten Pelanggan.
 (b) Kategori Data Pribadi: Pesan percakapan, cuplikan kontak yang diberikan secara sukarela dalam obrolan (nama, nomor telepon, alamat, atau surat elektronik hingga tiga baris tersemat dengan masing-masing tiga ratus karakter), foto pencarian produk, foto pengguna dan foto ruangan Virtual Try-On, nomor telepon dan nama profil WhatsApp, penanda pengguna dan penanda obrolan Telegram, serta tanda kriptografis pengunjung satu arah.
 (c) Kegiatan Pemrosesan: Menerima, menyimpan sementara dalam memori sesi, mengevaluasi terhadap pengaman keamanan, meneruskan ke Model AI untuk sintesis respons atau gambar, mengirimkan respons melalui kanal yang terhubung, dan mencatat Analitik Pengunjung yang telah dide-identifikasi.

@@ -1,13 +1,13 @@
-# 25. Lampiran E. Jadwal Kanal Pihak Ketiga dan Widget Situs Web
+﻿# 25. Lampiran E. Jadwal Kanal Pihak Ketiga dan Widget Situs Web
 
-- Path Dokumen: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.id.md](./annex-e-third-party-channels-and-widget.id.md)
-- Path Dokumen Bahasa Pendamping: [docs/platform-legal/annexes/annex-e-third-party-channels-and-widget.en.md](./annex-e-third-party-channels-and-widget.en.md)
-- Path Dokumen Perjanjian Induk: [docs/platform-legal/terms-and-conditions.id.md](../terms-and-conditions.id.md#25-lampiran-e-jadwal-kanal-pihak-ketiga-dan-widget-situs-web)
-- Path Dokumen Daftar Isi: [docs/platform-legal/TOC.id.md](../TOC.id.md#25-lampiran-e-jadwal-kanal-pihak-ketiga-dan-widget-situs-web)
+- Path Dokumen: [annexes/annex-e-third-party-channels-and-widget.id.md](./annex-e-third-party-channels-and-widget.id.md)
+- Path Dokumen Bahasa Pendamping: [annexes/annex-e-third-party-channels-and-widget.en.md](./annex-e-third-party-channels-and-widget.en.md)
+- Path Dokumen Perjanjian Induk: [terms-and-conditions.id.md](../terms-and-conditions.id.md#25-lampiran-e-jadwal-kanal-pihak-ketiga-dan-widget-situs-web)
+- Path Dokumen Daftar Isi: [TOC.id.md](../TOC.id.md#25-lampiran-e-jadwal-kanal-pihak-ketiga-dan-widget-situs-web)
 
 ### 25.1. Persyaratan Penghubungan dan Ketentuan Operasional WhatsApp Business
 
-25.1.1. Sesuai dengan [Pasal 10 Perjanjian (docs/platform-legal/terms-and-conditions.id.md)](../terms-and-conditions.id.md#10-pasal-10-kanal-pihak-ketiga-dan-integrasi-widget-situs-web), untuk menghubungkan suatu Agen AI ke WhatsApp Business, Pelanggan wajib memiliki Paket Langganan aktif yang mencakup dukungan WhatsApp dan menyediakan kredensial sah yang diterbitkan bagi Pelanggan (token akses, penanda nomor telepon, penanda akun bisnis, dan token verifikasi webhook).
+25.1.1. Sesuai dengan [Pasal 10 Perjanjian (terms-and-conditions.id.md)](../terms-and-conditions.id.md#10-pasal-10-kanal-pihak-ketiga-dan-integrasi-widget-situs-web), untuk menghubungkan suatu Agen AI ke WhatsApp Business, Pelanggan wajib memiliki Paket Langganan aktif yang mencakup dukungan WhatsApp dan menyediakan kredensial sah yang diterbitkan bagi Pelanggan (token akses, penanda nomor telepon, penanda akun bisnis, dan token verifikasi webhook).
 
 25.1.2. Pelanggan bertanggung jawab penuh untuk mengonfigurasi URL titik akhir webhook dan token verifikasinya pada pengaturan WhatsApp Business miliknya, menjaga status akunnya, serta membayar biaya perpesanan atau percakapan yang ditagihkan oleh penyelenggara kanal.
 
