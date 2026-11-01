@@ -2,7 +2,7 @@
 
 Repository: [3bee-dev/3bee-tnc](https://github.com/3bee-dev/3bee-tnc)  
 Quick Navigation:  
-[English Terms & Conditions](terms-and-conditions.en.md) • [Syarat & Ketentuan (Bahasa Indonesia)](terms-and-conditions.id.md) • [Table of Contents (EN)](TOC.en.md) • [Daftar Isi (ID)](TOC.id.md) • [Annexes Directory](annexes/README.md)
+[English Terms & Conditions](terms-and-conditions.en.md) • [Syarat & Ketentuan (Bahasa Indonesia)](terms-and-conditions.id.md) • [Table of Contents (EN)](TOC.en.md) • [Daftar Isi (ID)](TOC.id.md) • [Annexes Directory](annexes/README.md) • [Information Guide (Panduan Pengisian)](information-guide.md)
 
 ---
 
@@ -42,6 +42,7 @@ Each schedule is incorporated into Sections 21 through 26 of the primary Agreeme
 
 | Document | File Path | Target Audience & Purpose |
 | :--- | :--- | :--- |
+| **Panduan Pengisian Dokumen (Information Guide)** | [information-guide.md](./information-guide.md) | Panduan komprehensif berbahasa Indonesia untuk mengisi seluruh placeholder `[...]` dan keputusan hukum `[LAWYER DECISION: ...]`. |
 | **Internal Legal Fact Sheet** | [fact-sheet.md](./fact-sheet.md) | Technical baseline recording verified platform facts, retention schedules, data roles, and sub-processor categories. |
 | **Clause-to-Function Mapping & Placeholder Registry** | [clause-function-map.md](./clause-function-map.md) | Maps Articles 1–20 & Annexes A–F to Legal Functions 1–6, inventories all open placeholders (`[...]`), and logs Lawyer Decisions (`[LAWYER DECISION: ...]`). |
 | **Developer Acceptance & Version Archive Specification** | [acceptance-implementation.md](./acceptance-implementation.md) | Engineering specification for recording accepted version, UTC timestamp, account ID, and method (`terms_acceptances`), gating outdated versions, and keeping past versions retrievable (`terms_versions`). |
@@ -84,6 +85,7 @@ Each schedule is incorporated into Sections 21 through 26 of the primary Agreeme
 ├── TOC.id.md                                          # Indonesian Table of Contents
 ├── terms-and-conditions.en.md                         # English Terms and Conditions of Service
 ├── terms-and-conditions.id.md                         # Indonesian Syarat dan Ketentuan Layanan
+├── information-guide.md                               # Panduan pengisian seluruh placeholder & keputusan hukum
 ├── fact-sheet.md                                      # Internal Legal Fact Sheet
 ├── clause-function-map.md                             # Internal Clause-to-Function Mapping & Placeholders
 ├── acceptance-implementation.md                       # Developer Acceptance & Version Archive Spec
